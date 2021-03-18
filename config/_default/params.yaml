@@ -7,53 +7,54 @@
 
 theme: minimal
 day_night: true
-font: ''
+font: 'Rose'
 font_size: L
 
 # SEO
 
 site_type: Person
-local_business_type: ''
-org_name: ''
-description: ''
-twitter: ''
+local_business_type: 'Education'
+org_name: 'Instituto Federal Catarinense'
+description: '📚 Pública, gratuita e de qualidade.
+Ensino médio, superior, pós-graduação e qualificação profissional.'
+instagram: 'https://www.instagram.com/ifc.oficial.blumenau/'
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: riad.nassiffe at ifc.edu.br
+phone: +55 47 3702-1700
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  street: Rua Bernardino José de Oliveira - n 81 - Badenfurt
+  city: Blumenau
+  state: SC
+  postcode: '89070-270'
+  country: Brazil
+  country_code: BR
+#coordinates:
+#  latitude: '37.4275'
+#  longitude: '-122.1697'
+#directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
-  - 'Monday 10:00 to 13:00'
+  - 'Monday 08:00 to 12:00'
   - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+#appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: riadNassiffe
+    link: 'https://twitter.com/riadNassiffe'
+#  - icon: skype
+#    icon_pack: fab
+#    name: Skype Me
+#    link: 'skype:echo123?call'
+#  - icon: keybase
+#    icon_pack: fab
+#    name: Chat on Keybase
+#    link: 'https://keybase.io/'
+#  - icon: comments
+#    icon_pack: fas
+#    name: Discuss on Forum
+#    link: 'https://discourse.gohugo.io'
 
 # Site header
 
@@ -61,24 +62,24 @@ main_menu:
   enable: true
   align: l
   show_logo: true
-  show_language: false
+  show_language: true
   show_day_night: true
   show_search: true
   highlight_active_link: true
 
 # Localization
 
-date_format: 'Jan 2, 2006'
+date_format: 'Mar 18, 2021'
 time_format: '3:04 PM'
-address_format: en-us
+address_format: pt-br
 
 # Site features
 
 highlight: true
 highlight_languages:
   - r
-math: false
-diagram: false
+math: true
+diagram: true
 privacy_pack: false
 edit_page:
   repo_url: ''
@@ -100,7 +101,7 @@ section_pager: false
 docs_section_pager: true
 sharing: true
 copyright_license:
-  enable: false
+  enable: true
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
