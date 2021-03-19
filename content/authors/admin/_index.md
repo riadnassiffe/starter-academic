@@ -6,7 +6,7 @@ title: Ríad Mattos Nassiffe
 superuser: true
 
 # Role/position/tagline
-role: Professor Computer Science
+role: Professor of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:

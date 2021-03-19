@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-{{< figure src="dvs_emulation_example3.png" id="dvs_emulation_example3" >}}
+{{< figure src="dvs_emulation_example3.png" id="dvs_emulation_example3" caption="ARM implementation of continuous DVS, Author [1]." numbered="true">}}
 
 A common way to save energy with computers is exploring the CPU frequency switch capability. The Raspberry Pi uses an  ARM1176JZF-S processor and according to the ARM on-line documentation this CPU can be run in any frequency under the maximal one, supported by the processor. To be able to performance any frequency the ARM11 architecture emulate a continuous DVS(Dynamic Voltage Scaling), in a discrete processor,  by holding the voltage at the maximum level and then switch the system clock between the maximum frequency and off. In order to apply this the IEM software - it is a software that runs on ARM processor to classify the types of activity and to analyze their processor utilization patterns for global prediction about the future performance required by the system - defines frames that are directly related to the performance level. In Figure 1 the system performance requested in the first frame is 50%, so the CPU work at maximum frequency for half of the frame, and then it is turned off for the rest of the frame, in the second frame a performance of 25% of the CPU is requested, and then 75% in the last frame.
 
@@ -44,7 +44,7 @@ in this case 0.200 is the desired frequency in GHz and -f tells the new frequenc
 
 ## CPU Performance According Frequency
 
-In order to test the effect of continuous DVS emulation in a system like the Raspberry Pi a code witch the execution depends only of the CPU was executed and the time used by the CPU was measured. The code used in this experiment was:
+In order to test the effect of continuous DVS emulation in a system like the Raspberry Pi a code witch the execution depends on only of the CPU was executed and the time used by the CPU was measured. The code used in this experiment was:
 
 {{< highlight c "linenos=table,linenostart=1" >}}
 int main(int argc, char *argv[])
@@ -79,14 +79,15 @@ int main(int argc, char *argv[])
 }
 {{< / highlight >}}
 
-{{< figure src="raspberrypifreqtest3.png" id="raspberrypifreqtest3" >}}
+{{< figure src="raspberrypifreqtest3.png" id="raspberrypifreqtest3" caption="Shows amount of time spend by the CPU to execute the test program." numbered="true" >}}
 
 The above code can be available at the repository [4]. The code is very simple, and it basically consists on the execution of a for while i is lower than limit and the execution time is measured by use the clock_gettime() function from time.h, to get the exact time of the CPU usage the  clock_gettime() used the parameter CLOCK_THREAD_CPUTIME. To compile the program the GCC was used with the flags -lrt (this flag is needed to use the clock_gettime()) and -lm(due to the exponential function). By executing the above code,  and varying the frequency at steps of 0.1GHz in a range of 0.2GHz to 0.7GHz  the CPU execution time was measured and plotted in  Figure 2.
-Power Consumption According to Frequency and Voltage Scaling
+
+## Power Consumption According to Frequency and Voltage Scaling
 
 In order to realize an experiment to verify the power consumption according the frequency a Tenma 72-9380A multimeter was used and the Raspberry Pi were powered by GPIO interface. For the experiments the frequencies of: 0.1GHz, 0.2GHz, 0.4GHz, 0.6GHz, 0.8GHz and 1 GHz were used. To measure the power consumption the above application were executed about 10s and the mean power consumption was used to plot the graphic in Figure 3. As expected the power consumption increased according to the frequency with a behavior expressed by $ \alpha f^3 $. 
 
-{{< figure src="featured.png" id="featured" >}}
+{{< figure src="featured.png" id="featured" caption="Shows the Raspberry Pi Power consumption according the selected frequency." numbered="true">}}
 
 It is important to notice in between frequencies 0.2GHz-0.6GHz, 0.6GHz-0.8GHz and 0.8GHz-1GHz the power line changes its increasing rate from the previous interval, with the exception of the interval from 0.4GHz to 0.6GHz. This exception is caused because the ARM DVS doesn't need to change the voltage to simulate 0.4GHz and 0.6GHz, and when only the frequency changes the power consumption reduction is proportional to the increase of time need to execute the program.
 
@@ -96,7 +97,7 @@ As a conclusion of the first experiment it is possible to confirm that the conti
 
 ## References
 
-- ARM - ARM1176JZF Development Chip Technical Reference
-- RaspBerry Pi - RPiconfig
-- clock_gettime - Man7.org
-- Test program code - Github
+1. ARM - ARM1176JZF Development Chip Technical Reference
+2. RaspBerry Pi - RPiconfig
+3. clock_gettime - Man7.org
+4. Test program code - Github
