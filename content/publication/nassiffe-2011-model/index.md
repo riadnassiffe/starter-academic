@@ -14,6 +14,7 @@ date: '2011-01-01'
 lastmod: 2021-03-19T09:39:08-03:00
 featured: false
 draft: false
+doi: "http://dx.doi.org/10.1109/sbesc.2011.9"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

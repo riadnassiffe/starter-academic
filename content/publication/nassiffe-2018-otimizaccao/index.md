@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'OTIMIZAÇÃO COMBINATÓRIA: O PROBLEMA DE ALOCAÇÃO DE PROFESSORES FORMULADO COMO
-  UM PROBLEMA BINÁRIO'
+title: 'OTIMIZAÇÃO COMBINATÓRIA: O PROBLEMA DE ALOCAÇÃO DE PROFESSORES FORMULADO COMO UM PROBLEMA BINÁRIO'
 subtitle: ''
 summary: ''
 authors:
@@ -15,6 +14,7 @@ date: '2018-01-01'
 lastmod: 2021-03-19T09:39:10-03:00
 featured: false
 draft: false
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

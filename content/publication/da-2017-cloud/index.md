@@ -18,6 +18,7 @@ date: '2017-01-01'
 lastmod: 2021-03-19T09:39:10-03:00
 featured: false
 draft: false
+doi: "https://doi.org/10.1109/SBESC.2014.10"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

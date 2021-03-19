@@ -8,8 +8,10 @@ else
   git commit -am "$1"
   git push
 
+  echo "Executando o Hugo"
   hugo
 
+  echo "Dando comite no public"
   cd public
   git add -A
   git commit -am "$1"

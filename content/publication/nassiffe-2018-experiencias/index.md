@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Experiências e Ações junto a Coordenação de Pesquisa, Pós-graduação e Inovação
-  do Instituto Federal de Catarinense Campus Blumenau
+title: Experiências e Ações junto a Coordenação de Pesquisa, Pós-graduação e Inovação do Instituto Federal de Catarinense Campus Blumenau
 subtitle: ''
 summary: ''
 authors:

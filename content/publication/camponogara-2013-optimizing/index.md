@@ -16,6 +16,7 @@ date: '2013-01-01'
 lastmod: 2021-03-19T09:39:11-03:00
 featured: false
 draft: false
+doi: "http://dx.doi.org/10.1504/IJES.2016.10001303"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
