@@ -28,9 +28,9 @@ content:
   - name: All
     tag: '*'
   - name: Arduino
-    tag: arduino
+    tag: Arduino
   - name: Real Time System Energy-Aware Scheduling
-    tag: rts_energy-aware_scheduling
+    tag: RTS Energy-aware Scheduling
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
