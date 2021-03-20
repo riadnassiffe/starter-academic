@@ -7,7 +7,8 @@ summary: ''
 authors:
 - Rı́ad Mattos Nassiffe
 - ' others'
-tags: []
+tags:
+- RTS Energy-aware Scheduling
 categories: []
 date: '2015-01-01'
 lastmod: 2021-03-19T09:39:09-03:00
@@ -36,4 +37,4 @@ abstract: 'This thesis proposes a framework for dynamic reconfiguration, value-b
 publication: ''
 ---
 
-[Download](https://repositorio.ufsc.br/xmlui/handle/123456789/158798)
+[Download *(Brazilian Portuguese)*](https://repositorio.ufsc.br/xmlui/bitstream/handle/123456789/158798/337447.pdf?sequence=1&isAllowed=y)

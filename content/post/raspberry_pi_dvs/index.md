@@ -4,11 +4,13 @@
 title: Testing Raspberry Pi DVS 
 subtitle: Using processor DVS to save energy.
 summary: "--"
-authors: ["admin"]
-tags: []
-categories: []
-date: 2021-03-18T17:19:25-03:00
-lastmod: 2021-03-18T17:19:25-03:00
+authors: ["riad"]
+tags:
+- Arduino
+categories:
+- Arduino
+PublishDate: 2021-03-18T14:15:59-06:00
+Lastmod: 2021-03-19T14:15:59-06:00
 unnamed: false
 draft: false
 

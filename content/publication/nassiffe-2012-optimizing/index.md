@@ -8,7 +8,8 @@ authors:
 - Rı́ad Nassiffe
 - Eduardo Camponogara
 - George Lima
-tags: []
+tags:
+- RTS Energy-aware Scheduling
 categories: []
 date: '2012-01-01'
 lastmod: 2021-03-19T09:39:08-03:00

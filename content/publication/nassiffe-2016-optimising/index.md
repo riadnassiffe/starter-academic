@@ -9,7 +9,8 @@ authors:
 - Eduardo Camponogara
 - George Lima
 - Daniel Mossé
-tags: []
+tags:
+- RTS Energy-aware Scheduling
 categories: []
 date: '2016-01-01'
 lastmod: 2021-03-19T09:39:09-03:00

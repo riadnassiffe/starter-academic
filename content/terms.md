@@ -1,7 +1,7 @@
 ---
 title: Terms
 date: "2021-03-18T00:00:00+01:00"
-draft: flase
+draft: true
 share: false
 commentable: false
 editable: false

@@ -1,12 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Mestrado"
+title: "Real Time System Energy-Aware Scheduling"
 summary: ""
-authors: []
-tags: []
-categories: []
-date: 2021-03-19T09:29:34-03:00
+authors: ["riad"]
+tags:
+- RTS Energy-aware Scheduling
+categories:
+- Energy-aware Scheduling
+- RTS
+date: 2021-03-19T20:10:16-03:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,3 +42,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+[Multicore ](/project/rts_energy-aware_scheduling/multicore)

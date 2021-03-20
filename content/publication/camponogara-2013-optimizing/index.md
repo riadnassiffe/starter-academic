@@ -10,7 +10,8 @@ authors:
 - George Lima
 - Daniel Mossé
 - Rı́ad Nassiffe
-tags: []
+tags:
+- RTS Energy-aware Scheduling
 categories: []
 date: '2013-01-01'
 lastmod: 2021-03-19T09:39:11-03:00

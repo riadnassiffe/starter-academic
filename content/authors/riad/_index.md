@@ -32,7 +32,7 @@ education:
     year: 2015
   - course: Msc in Engenharia de Automação e Sistemas.
     institution: Universidade Federal de Santa Catarina, UFSC, Brasil.
-    year: 20011
+    year: 2011
   - course: BSc in Computer Science
     institution: Faculdade Ruy Barbosa, FRB, Brasil.
     year: 2008
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:riad.nassiffe@ifc.edu.br'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/riadNassiffe
@@ -76,6 +76,7 @@ email: "riad.nassiffe@ifc.edu.br"
 
 highlight_name: true
 ---
-
 Greetings! My name is Ríad Mattos Nassiffe. I am a professor at IFC-campus Blumenau. I am computer science professor at technical computing and bachelor at Computer Science courses. I teach disciplines about programming, operating system, data structure, embedded system and architecture and organization.
+
+**The web page is under construction.**
 
