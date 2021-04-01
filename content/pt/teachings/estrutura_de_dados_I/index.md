@@ -1,14 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Arduino"
+title: "Estrutura de Dados I"
 summary: ""
 authors: ["riad"]
 tags:
-- Arduino
+- Estrutura de Dados I
 categories:
-- Arduino
-date: 2021-03-19T20:01:33-03:00
+- Algoritmos
+- Estrutura de Dados I
+date: 2021-03-19T20:10:16-03:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

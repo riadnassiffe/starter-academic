@@ -1,14 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Real Time System Energy-Aware Scheduling"
+title: "Programming I"
 summary: ""
 authors: ["riad"]
 tags:
-- RTS Energy-aware Scheduling
+- Programming
 categories:
-- Energy-aware Scheduling
-- RTS
+- Programming
+- Algorithm
+- Python
 date: 2021-03-19T20:10:16-03:00
 
 # Optional external URL for project (replaces project detail page).
@@ -42,4 +43,24 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-[Multicore ](/project/rts_energy-aware_scheduling/multicore)
+**Class:** Thus either at 11am or 4:30pm, zoom link
+
+**Instructor:**	Eder Augusto Penharbel (eder.penharbel@ifc.edu.br) and Ríad Mattos Nassiffe (riad.nassiffe@ifc.edu.br)
+
+**Office Hours:**	(or by appointment) 
+
+___
+
+# Objectives
+
+___
+# Programming Assignments 
+
+The programming assignments are a very important component of the course. 
+
+The programming assignments will be evaluated on several factors:
++ **Correctness:** 
++ **Best pratices:** 
++ **Documentation :**
+
+
