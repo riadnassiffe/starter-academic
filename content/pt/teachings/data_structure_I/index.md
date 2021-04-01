@@ -43,7 +43,7 @@ slides: ""
 ---
 **Horário:** Quarta-feira das 14:00 ás 17:00. [Calendário com aulas marcadas.](http://blumenau.ifc.edu.br/bcc/horario-de-aula/)
 
-**Instrutor:**	Ríad Mattos Nassiffe (riad.nassiffe@ifc.edu.br)
+**Professor:**	Ríad Mattos Nassiffe (riad.nassiffe@ifc.edu.br)
 
 **Horas de atendimento:**	a definir com a turma ou em horário marcado por e-mail. 
 

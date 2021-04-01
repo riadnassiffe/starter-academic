@@ -51,7 +51,7 @@ slides: ""
 
 + [Google Calendário com horários marcados](http://blumenau.ifc.edu.br/medio-informatica/horarios/)
 
-**Instrutores:**
+**Professores:**
 + Eder Augusto Penharbel (eder.penharbel@ifc.edu.br) 
 + Ríad Mattos Nassiffe (riad.nassiffe@ifc.edu.br)
 
