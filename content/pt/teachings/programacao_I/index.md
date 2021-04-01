@@ -5,12 +5,12 @@ title: "Programação I"
 summary: ""
 authors: ["riad"]
 tags:
-- Programação
+- Programação I
 categories:
-- Programação
+- Programação I
 - Algoritmos
 - Python
-date: 2021-03-19T20:10:16-03:00
+date: 2021-04-01T16:10:00-03:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -43,24 +43,47 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-**Horário:** Thus either at 11am or 4:30pm, zoom link
+**Horário:** 
 
-**Instrutores:**	Eder Augusto Penharbel (eder.penharbel@ifc.edu.br) and Ríad Mattos Nassiffe (riad.nassiffe@ifc.edu.br)
++ Turma 201 : Terça-feira 8:00 - 9:30 e Sexta-feira 8:45 - 9:45
 
-**Horas de atendimento:**	(or by appointment) 
++ Turma 202 : Terça-feira 9:45 - 11:15 e Sexta-feira 10:30 - 12:00
+
++ [Google Calendário com horários marcados](http://blumenau.ifc.edu.br/medio-informatica/horarios/)
+
+**Instrutores:**
++ Eder Augusto Penharbel (eder.penharbel@ifc.edu.br) 
++ Ríad Mattos Nassiffe (riad.nassiffe@ifc.edu.br)
+
+**Horas de atendimento:**	a ser definido.
 
 ___
 
-# Ementa
+## Ementa
+
+Programação Orientada à Objetos. Fundamentos de uma linguagem de programação orientada a objetos. Tratamento de Exceções. Implementação de software com uma linguagem de programação integrada com banco de dados
+___
+
+## Objetivos
+
+Implementar um sistema dinâmico, utilizando banco de dados e com interação com usuário.
 
 ___
-# Critérios de Avaliação 
 
-The programming assignments are a very important component of the course. 
+## Avaliações
 
-The programming assignments will be evaluated on several factors:
-+ **Correctness:** 
-+ **Best pratices:** 
-+ **Documentation :**
+Cada trimestre terá três avaliações. As avaliações e respectivos pesos serão: (1) entrega de atividades - 20%, (2) Trabalho prático - 30% e (3) prova escrita (no [SIGAA](https://sig.ifc.edu.br/sigaa/verTelaLogin.do)) - 50%.  
 
+**Média trimestral** = entrega de atividades * 0,2 + Trabalho prático * 0,3 + prova escrita * 0,5
 
+**Média anual** = (média do primeiro trimestre + média do segundo trimestre + média do terceiro trimestre)/3
+
+  **_A recuperação paralela ocorrerá por meio do desenvolvimento de um trabalho prático que envolverá todos os conteúdo do trimestre._**
+
+___
+## Critérios de Avaliação 
+
++ **Corretude** : se o código faz o que foi solicitado, sem conter erros de programação.
++ **Documentação** : se existe uma documentação do código e como a solução foi criada.
++ **Boas práticas** : o código deve seguir as boas práticas apontadas em sala de aula, que deverão facilitar a leitura e entendimento dele.
++ **Apresentação** : o código deverá ser apresentado, explicado e mostrado em execução.

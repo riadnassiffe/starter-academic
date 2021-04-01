@@ -77,6 +77,3 @@ email: "riad.nassiffe@ifc.edu.br"
 highlight_name: true
 ---
 Greetings! My name is Ríad Mattos Nassiffe. I am a professor at IFC-campus Blumenau. I am computer science professor at technical computing and bachelor at Computer Science courses. I teach disciplines about programming, operating system, data structure, embedded system and architecture and organization.
-
-**The web page is under construction.**
-

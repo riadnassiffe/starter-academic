@@ -14,15 +14,15 @@ organizations:
   url: blumenau.ifc.edu.br
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include power energy and temperature aware systems, real-time systems, optimization, embedded Systems and operating Systems .
+bio: Meus tópicos de interesse incluem economia de energia, sistemas de tempo real, otimização, sistemas embarcados e sistemas operacionais.
 
 # Interests to show in About widget
 interests:
-- Power-energy and temperature-aware
-- Real-time systems
-- Optimization
-- Embedded Systems
-- Operating Systems 
+- Economia de energia
+- Sistemas de tempo real
+- Otimização
+- Sistemas Embarcados
+- Sistemas Operacionais 
 
 # Education to show in About widget
 education:
@@ -76,4 +76,4 @@ email: "riad.nassiffe@ifc.edu.br"
 
 highlight_name: true
 ---
-Olá! Meu nome é Ríad Mattos Nassiffe, sou professor títular no IFC-campus Blumenau. Leciono em cursos relacionados a ensino médio, superior e técnico. Atualmente lerciono disciplinas relacionadas a programação orientada a objeto, sistemas operacionais, estrutura de dados, sistemas embarcados e arquitetura de computadores. A versão em portgues do site é voltada para armazenar informações sobre as disciplinas que leciono e a versão em inglês contem textos sobre assuntos que estudo e informações das disciplinas também.
+Olá! Meu nome é Ríad Mattos Nassiffe, sou professor titular no IFC-campus Blumenau. Leciono em cursos relacionados a ensino médio, superior e técnico. Atualmente leciono disciplinas relacionadas a programação orientada a objeto, sistemas operacionais, estrutura de dados, sistemas embarcados e arquitetura de computadores. A versão em português do site é voltada para armazenar informações sobre as disciplinas que leciono e a versão em inglês contem textos sobre assuntos que estudo e informações das disciplinas também.
