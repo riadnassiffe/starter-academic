@@ -74,6 +74,9 @@ email: "riad.nassiffe@ifc.edu.br"
 # Highlight the author in author lists? (true/false)
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
+# Greetings! My name is Ríad Mattos Nassiffe, I am curre professor at IFC-campus Blumenau. I am computer science professor at technical computing and bachelor at Computer Science courses. I teach disciplines about programming, operating system, data structure, embedded system and architecture and organization.
+
+
 highlight_name: true
 ---
-Greetings! My name is Ríad Mattos Nassiffe. I am a professor at IFC-campus Blumenau. I am computer science professor at technical computing and bachelor at Computer Science courses. I teach disciplines about programming, operating system, data structure, embedded system and architecture and organization.
+Greetings! My name is Ríad Mattos Nassiffe, I am professor at IFC-campus Blumenau, but currently away working at [Sottama](https://www.sottama.com/) with [Salesforce](https://www.salesforce.com) platform. The posts in this site will focus on Salesforce, algorithms, Real-time systems and Arduino.

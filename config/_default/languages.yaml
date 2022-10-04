@@ -19,23 +19,24 @@ en:
 #      - name: 传
 #        url: '#about'
 #        weight: 1
-pt:
-  languageCode: pt-BR
-  contentDir: content/pt
-  title: Ríad Mattos Nassiffe
-  params:
-    description: Site para divulgação informações.
-  menu:
-    main:
-      - name: Sobre
-        url: '#about'
-        weight: 1
-      - name: Ensino
-        url: '#teaching'
-        weight: 2
-      - name: Projetos
-        url: '#projeto'
-        weight: 3
-      - name: Contato
-        url: '#contato'
-        weight: 4
+#pt:
+# languageCode: pt-BR
+# contentDir: content/pt
+# title: Ríad Mattos Nassiffe
+# params:
+#   description: Site para divulgação informações.
+# menu:
+#   main:
+#     - name: Sobre
+#       url: '#about'
+#       weight: 1
+#     - name: Ensino
+#       url: '#teaching'
+#       weight: 2
+#     - name: Projetos
+#       url: '#projeto'
+#       weight: 3
+#     - name: Contato
+#       url: '#contato'
+#       weight: 4
+#
