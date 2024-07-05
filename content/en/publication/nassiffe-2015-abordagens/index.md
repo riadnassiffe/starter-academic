@@ -14,7 +14,7 @@ date: '2015-01-01'
 lastmod: 2021-03-19T09:39:09-03:00
 featured: false
 draft: false
-url: "repositorio.ufsc.br/xmlui/handle/123456789/158798"
+url: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

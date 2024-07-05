@@ -4,7 +4,7 @@
 title: An optimized relay selection technique to improve the communication reliability
   in wireless sensor networks
 subtitle: ''
-summary: ''
+summary: 
 authors:
 - Suelen Laurindo
 - Ricardo Moraes
@@ -35,7 +35,7 @@ image:
 projects: []
 publishDate: '2021-03-19T12:39:10.046392Z'
 publication_types:
-- '2'
-abstract: ''
-publication: '*Sensors*'
+- 'Journal'
+abstract: 'Wireless Sensor Networks (WSN) are enabler technologies for the implementation of the Internet of Things (IoT) concept. WSNs provide an adequate infrastructure for the last-link communication with smart objects. Nevertheless, the wireless communication medium being inherently unreliable, there is the need to increase its communication reliability. Techniques based on the use of cooperative communication concepts are one of the ways to achieve this target. Within cooperative communication techniques, nodes selected as relays transmit not only their own data, but also cooperate by retransmitting data from other nodes. A fundamental step to improve the communication reliability of WSNs is related to the use of efficient relay selection techniques. This paper proposes a relay selection technique based on multiple criteria to select the smallest number of relay nodes and, at the same time, to ensure an adequate operation of the network. Additionally, two relay updating schemes are also investigated, defining periodic and adaptive updating policies. The simulation results show that both proposed schemes, named Periodic Relay Selection and Adaptive Relay Selection, significantly improve the communication reliability of the network, when compared to other state-of-the-art relay selection schemes.'
+publication: 'Sensors'
 ---

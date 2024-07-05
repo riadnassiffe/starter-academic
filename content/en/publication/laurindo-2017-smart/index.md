@@ -36,7 +36,7 @@ image:
 projects: []
 publishDate: '2021-03-19T12:39:09.861746Z'
 publication_types:
-- '1'
+- 'International Workshop on Factory Communication Systems'
 abstract: ''
 publication: '*2017 IEEE 13th International Workshop on Factory Communication Systems
   (WFCS)*'

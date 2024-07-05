@@ -35,7 +35,7 @@ image:
 projects: []
 publishDate: '2021-03-19T12:39:11.318411Z'
 publication_types:
-- '1'
+- 'Brazilian Symposium on Computing Systems Engineering'
 abstract: ''
 publication: '*2013 III Brazilian Symposium on Computing Systems Engineering*'
 ---

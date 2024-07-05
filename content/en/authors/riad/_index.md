@@ -6,12 +6,12 @@ title: Ríad M. Nassiffe
 superuser: true
 
 # Role/position/tagline
-role: Professor of Computer Science
+role: Developer # Professor of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: IFC-Blumenau
-  url: blumenau.ifc.edu.br
+- name: Sottama #IFC-Blumenau
+  url: Https://www.sottama.com # blumenau.ifc.edu.br
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include power energy and temperature aware systems, real-time systems, optimization, embedded Systems and operating Systems .
@@ -27,10 +27,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Engenharia de Automação e Sistemas.
+  - course: PhD in Engenharia de Automação e Sistemas
     institution: Universidade Federal de Santa Catarina, UFSC, Brasil.
     year: 2015
-  - course: Msc in Engenharia de Automação e Sistemas.
+  - course: Msc in Engenharia de Automação e Sistemas
     institution: Universidade Federal de Santa Catarina, UFSC, Brasil.
     year: 2011
   - course: BSc in Computer Science
@@ -69,7 +69,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "riad.nassiffe@ifc.edu.br"
+email: "riad.nassiffe@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
@@ -79,4 +79,4 @@ email: "riad.nassiffe@ifc.edu.br"
 
 highlight_name: true
 ---
-Greetings! My name is Ríad Mattos Nassiffe, I am professor at IFC-campus Blumenau, but currently away working at [Sottama](https://www.sottama.com/) with [Salesforce](https://www.salesforce.com) platform. The posts in this site will focus on Salesforce, algorithms, Real-time systems and Arduino.
+Greetings! My name is Ríad Mattos Nassiffe, I am developer, currently away working at [Sottama](https://www.sottama.com/) with [Salesforce](https://www.salesforce.com) platform. The posts in this site will focus on Salesforce, algorithms, Real-time systems and Arduino.

@@ -71,8 +71,10 @@ email: "riad.nassiffe@ifc.edu.br"
 # Highlight the author in author lists? (true/false)
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
+# Greetings! My name is Ríad Mattos Nassiffe. I am a professor at IFC-campus Blumenau. I am computer science professor at technical computing and bachelor at Computer Science courses. I teach disciplines about programming, operating system, data structure, embedded system and architecture and organization.
+
 highlight_name: false
 ---
 
-Greetings! My name is Ríad Mattos Nassiffe. I am a professor at IFC-campus Blumenau. I am computer science professor at technical computing and bachelor at Computer Science courses. I teach disciplines about programming, operating system, data structure, embedded system and architecture and organization.
+
 

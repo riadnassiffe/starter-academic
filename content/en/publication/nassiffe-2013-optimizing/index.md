@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2021-03-19T12:39:08.758684Z'
 publication_types:
-- '2'
+- 'Journal'
 abstract: ''
 publication: '*ACM SIGBED Review*'
 ---
