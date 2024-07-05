@@ -13,6 +13,7 @@ PublishDate: 2021-03-18T14:15:59
 Lastmod: 2021-03-19T14:15:59
 unnamed: false
 draft: false
+commentable: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

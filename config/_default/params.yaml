@@ -8,7 +8,7 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: minimal
+  font: native
   font_size: L
 
 # SEO
@@ -66,7 +66,7 @@ features:
     theme_light: github-light
     theme_dark: dracula
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
@@ -77,17 +77,20 @@ features:
     gravatar: false
     shape: circle
   comment:
-    provider: ''
+    provider: 'giscus'
     disqus:
       shortname: ''
       show_count: true
     commento:
       url: ''
     giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
+      repo: 'riadnassiffe/riadnassiffe.github.io'
+      repo_id: 'MDEwOlJlcG9zaXRvcnkzNDkxNTU2ODA='
+      category: 'Announcements'
+      category_id: 'IC_kwDOFM-xYM4CglyJ'
+      theme: preferred_color_scheme
+      language_code: en
+      mapping: pathname
   search:
     provider: wowchemy
     algolia:
@@ -114,3 +117,23 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+footer:
+  block: minimal
+  copyright:
+    notice: '© {year} Me. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+  # For multilingual sites, show a language chooser in the footer?
+  #show_translations: true
+
+page:
+  show_date: true
+  reading_time: false
+  share: true
+
+marketing:
+  analytics:
+    google_analytics: 'UA-7485988-3'
