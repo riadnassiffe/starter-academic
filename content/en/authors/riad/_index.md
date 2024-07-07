@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Ríad M. Nassiffe
-
+type: landing
 # Is this the primary user of the site?
 superuser: true
 
@@ -14,16 +14,14 @@ organizations:
   url: Https://www.sottama.com # blumenau.ifc.edu.br
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include power energy and temperature aware systems, real-time systems, optimization, embedded Systems and operating Systems .
+bio: #My research interests include power energy and temperature aware systems, real-time systems, optimization, embedded Systems and operating Systems .
 
 # Interests to show in About widget
 interests:
-- Power-energy and temperature-aware
-- Real-time systems
+- Salesforce Platform
 - Optimization
 - Embedded Systems
-- Operating Systems 
-
+  
 # Education to show in About widget
 education:
   courses:
@@ -37,6 +35,15 @@ education:
     institution: Faculdade Ruy Barbosa, FRB, Brasil.
     year: 2008
 
+skills:
+  - name: Technical
+    items:
+    - name: Python
+      description: ''
+      percent: 80
+      icon: python
+      icon_pack: fab
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -44,7 +51,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:riad.nassiffe@ifc.edu.br'
+  link: 'mailto:riad.nassiffe@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/riadNassiffe

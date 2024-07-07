@@ -8,8 +8,9 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: native
-  font_size: L
+  font: Native
+  font_size: m
+  color: GREEN
 
 # SEO
 
@@ -18,10 +19,10 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: 'A blog about dev stuff.'
+    twitter: 'riadNassiffe'
   analytics:
-    google_analytics: ''
+    google_analytics: 'UA-7485988-3'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
@@ -133,7 +134,3 @@ page:
   show_date: true
   reading_time: false
   share: true
-
-marketing:
-  analytics:
-    google_analytics: 'UA-7485988-3'

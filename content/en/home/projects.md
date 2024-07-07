@@ -30,7 +30,9 @@ content:
   - name: Arduino
     tag: Arduino
   - name: Real Time System Energy-Aware Scheduling
-    tag: RTS Energy-aware Scheduling
+    tag: 'RTS, Energy-aware Scheduling'
+  - name: Salesforce
+    tag: Salesforce
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

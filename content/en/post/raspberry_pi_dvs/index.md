@@ -6,9 +6,11 @@ subtitle: Using processor DVS to save energy.
 summary: "--"
 authors: ["riad"]
 tags:
-- Arduino
+- RTS 
+- Energy-aware Scheduling
 categories:
-- Arduino
+- RTS 
+- Energy-aware Scheduling
 PublishDate: 2021-03-18T14:15:59
 Lastmod: 2021-03-19T14:15:59
 unnamed: false
