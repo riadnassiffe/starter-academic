@@ -9,7 +9,8 @@ authors:
 - Eduardo Camponogara
 - George Lima
 tags:
-- RTS Energy-aware Scheduling
+- RTS
+- Energy-aware Scheduling
 categories: []
 date: '2011-01-01'
 lastmod: 2021-03-19T09:39:08-03:00

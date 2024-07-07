@@ -1,7 +1,7 @@
 ---
 title: Projects
 cms_exclude: true
-type: landing
+
 # View.
 #   1 = List
 #   2 = Compact

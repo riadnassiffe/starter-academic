@@ -2,7 +2,6 @@
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
-draft: true
 # This file represents a page section.
 headless: true
 
@@ -17,10 +16,10 @@ feature:
     icon_pack: fab
     name: Salesforce
     description: Current working!
-  - icon: python
+  - icon: git
     icon_pack: fab
-    name: Python
-    description: Pygames, Flask, Django, scipy, cvxpy and ...%
+    name: Git
+    description: Current working!
   - icon: linux
     icon_pack: fab
     name: Linux
@@ -29,6 +28,10 @@ feature:
     icon_pack: fas
     name: Optimization
     description: Discrete and continuous (convex and piecewise linear) optimization problems.
+  - icon: python
+    icon_pack: fab
+    name: Python
+    description: Pygames, Flask, Django, scipy, cvxpy and ...%
   - icon: c
     icon_pack: fab
     name: C
@@ -41,5 +44,6 @@ feature:
     icon_pack: fas
     name: Photography 
     description: My travels :)
+
 
 ---

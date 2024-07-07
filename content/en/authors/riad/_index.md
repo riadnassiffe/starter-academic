@@ -35,14 +35,6 @@ education:
     institution: Faculdade Ruy Barbosa, FRB, Brasil.
     year: 2008
 
-skills:
-  - name: Technical
-    items:
-    - name: Python
-      description: ''
-      percent: 80
-      icon: python
-      icon_pack: fab
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

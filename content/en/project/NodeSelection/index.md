@@ -1,12 +1,12 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Teste"
+title: "Problem of Choosing Collaborators in a Network Sensors"
 summary: ""
-authors: []
+authors: ['riad']
 tags: []
 categories: []
-date: 2024-07-07T11:05:38-03:00
+date: 2024-07-07T12:37:37-03:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -38,4 +38,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
 ---
+
+In order to improve the communication of a RSSFs, in an environment where the transmission quality is constantly being modified, we intend to develop mathematical models for the selection of cooperating nodes, where exact and approximate algorithms will be tested. Such models will be built in an approximate way, which allows the use of efficient algorithms to solve this problem.

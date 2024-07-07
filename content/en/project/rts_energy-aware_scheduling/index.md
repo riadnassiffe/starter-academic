@@ -49,12 +49,5 @@ slides: "PhdProj"
 ---
 
 
-This project thesis proposes a framework for dynamic reconfiguration, value-based pro-
-cessor resource allocation in multi-modal or not real-time applications, under sche-
-dulability, energy consumption and temperature constraints. The framework is
-suitable for critical and soft real-time adaptive embedded systems which need gua-
-rantees of energy savings. The dynamic allocation is formulated as a discrete and
-continuous (convex and piecewise linear) optimization problem for which efficients
-algorithms were tested. Although the discrete problem is NP-Hard, the others have
-efficient solution and numerical analysis and simulations have shown that the used
-algorithms and models achieves very good results, with low computational cost.
+This project  was developed during my Master and PhD studies. It is a framework for dynamic reconfiguration, value-based processor resource allocation in multi-modal or not real-time applications, under schedulability, energy consumption and temperature constraints. The framework is suitable for critical and soft real-time adaptive embedded systems which need guarantees of energy savings. The dynamic allocation is formulated as a discrete and continuous (convex and piecewise linear) optimization problem, for which efficient algorithms were tested. Although the discrete problem is NP-Hard, the others have efficient solution and numerical analysis and simulations have shown that the used algorithms and models achieves very good results, with low computational cost.
+
