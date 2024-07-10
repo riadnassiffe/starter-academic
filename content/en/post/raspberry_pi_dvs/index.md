@@ -1,29 +1,26 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Testing Raspberry Pi DVS 
 subtitle: Using processor DVS to save energy.
-summary: "--"
-authors: ["riad"]
+summary: --
+authors:
+    - riad
 tags:
-- RTS 
-- Energy-aware Scheduling
+    - RTS 
+    - Energy-aware Scheduling
 categories:
-- RTS 
-- Energy-aware Scheduling
-PublishDate: 2021-03-18T14:15:59
-Lastmod: 2021-03-19T14:15:59
-unnamed: false
-draft: false
+    - RTS 
+    - Energy-aware Scheduling
+# PublishDate: 2021-03-18T14:15:59
+# Lastmod: 2021-03-19T14:15:59
+# unnamed: false
+# draft: false
 commentable: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Image credit: Ríad Mattos Nassiffe"
-  focal_point: "Center"
-  preview_only: true
+  caption: 'Image credit: Ríad Mattos Nassiffe'
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

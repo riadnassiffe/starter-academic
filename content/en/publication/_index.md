@@ -1,16 +1,22 @@
 ---
 title: Publications
-cms_exclude: true
+type: landing
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
-view: 4
+design:
+  # Section spacing
+  spacing: '5rem'
 
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
+# Page sections
+sections:
+  - block: collection
+    content:
+      title: All Publications
+      text:
+      filters:
+        folders:
+          - publication
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 4
 ---

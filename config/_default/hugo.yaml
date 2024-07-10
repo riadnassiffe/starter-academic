@@ -20,7 +20,6 @@ removePathAccents: true
 ## ADVANCED
 ############################
 
-
 build:
   writeStats: true
 enableGitInfo: false
@@ -69,7 +68,7 @@ cascade:
     share: true
     header:
       navbar:
-        enable: false
+        enable: true
   - _target:
       path: /project/**
     pager: true
@@ -81,7 +80,7 @@ cascade:
     share: true
     header:
       navbar:
-        enable: false
+        enable: true
   - _target:
       path: /publication/**
     pager: true

@@ -5,12 +5,17 @@
 
 # Appearance
 
+# appearance:
+#   theme_day: minimal
+#   theme_night: minimal
+#   font: Native
+#   font_size: m
+#   color: GREEN
+
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: Native
-  font_size: m
-  color: GREEN
+  mode: system
+  color: blue
+
 
 # SEO
 
@@ -36,9 +41,9 @@ header:
   navbar:
     enable: true
     # Align menu links: `left`, `center`, or `right`
-    align: l
+    align: center
     show_logo: true
-    show_language: false
+    show_language: true
     show_day_night: true
     show_search: true
     highlight_active_link: true
@@ -48,13 +53,13 @@ header:
     fixed_to_top: true
     logo:
       # Logo text
-      text: ""
+      text: "Ríad Nassiffe"
       # Logo filename in `assets/media/` folder
       filename: "logo.jpg"
-    button:
-      enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/"
+    # button:
+    #   enable: true
+    #   text: "Get Started"
+    #   url: "https://hugoblox.com/templates/"
     # Let the user choose between light or dark mode?
     show_theme_chooser: true
     # Let the user search from the navigation bar?
@@ -63,18 +68,6 @@ header:
     # If `show_translations` is enabled, do you wish to hide the current language name?
     hide_language_name: false
 
-# Site footer
-
-footer:
-  copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
-
-# Localization
 
 locale:
   date_format: 'Jan 2, 2006'
@@ -96,7 +89,7 @@ features:
     content_dir: content
     branch: main
   avatar:
-    gravatar: false
+    gravatar: true
     shape: circle
   comment:
     provider: 'giscus'
@@ -113,13 +106,6 @@ features:
       theme: preferred_color_scheme
       language_code: en
       mapping: pathname
-  search:
-    provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
   map:
     provider: 'mapnik'
     api_key: ''
@@ -136,21 +122,30 @@ extensions:
 
 # Security
 
-security:
-  # Allow frame for embedding speaker notes in slides
-  allow_frame: true
+# security:
+#   # Allow frame for embedding speaker notes in slides
+#   allow_frame: true
 
-# footer:
-#   block: minimal
-#   copyright:
-#     notice: '© {year} Me. This work is licensed under {license}'
-#     license:
-#       enable: true
-#       allow_derivatives: false
-#       share_alike: true
-#       allow_commercial: false
-  # For multilingual sites, show a language chooser in the footer?
-  #show_translations: true
+# Site header
+# header:
+#   navbar:
+#     enable: true
+#     blox: "navbar"
+#     fixed_to_top: true
+#     show_search: true
+#     show_theme_chooser: true
+#     logo:
+#       text: "Ríad Nassiffe"
+
+# Site footer
+footer:
+  copyright:
+    notice: '© {year} Me. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
 
 page:
   show_date: true

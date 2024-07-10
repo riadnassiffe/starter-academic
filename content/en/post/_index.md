@@ -1,15 +1,22 @@
 ---
-title: Posts
-cms_exclude: false
+title: Post
+type: landing
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 3
+design:
+  # Section spacing
+  spacing: '5rem'
 
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
+# Page sections
+sections:
+  - block: collection
+    content:
+      title: All Posts
+      text: 
+      filters:
+        folders:
+          - post
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
 ---
