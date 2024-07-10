@@ -13,8 +13,10 @@
 #   color: GREEN
 
 appearance:
+  theme_default: light
   mode: system
   color: blue
+  font_size: l
 
 
 # SEO
@@ -55,7 +57,7 @@ header:
       # Logo text
       text: "Ríad Nassiffe"
       # Logo filename in `assets/media/` folder
-      filename: "logo.jpg"
+      #filename: "avatar.jpg"
     # button:
     #   enable: true
     #   text: "Get Started"

@@ -3,8 +3,8 @@ title: Post
 type: landing
 
 design:
-  # Section spacing
-  spacing: '5rem'
+  view: article-grid
+  columns: '3'
 
 # Page sections
 sections:
@@ -18,5 +18,5 @@ sections:
     design:
       view: article-grid
       fill_image: false
-      columns: 3
+      columns: 5
 ---

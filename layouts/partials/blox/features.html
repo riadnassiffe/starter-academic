@@ -9,6 +9,7 @@
 {{ $text := $block.content.text | emojify | $page.RenderString }}
 
 <section>
+ <center>
   <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
     <div class="max-w-screen-md mb-8 lg:mb-16 flex flex-col justify-center mx-auto">
       {{ with $title }}
@@ -22,7 +23,7 @@
       {{ range $block.content.items }}
         <div>
           {{ with .icon }}
-          <div class="flex justify-center items-center mb-4 w-10 h-10 rounded-full bg-primary-100 lg:h-12 lg:w-12 dark:bg-primary-900 text-primary-600 dark:text-primary-300">
+          <div id="teste" class="flex justify-center items-center mb-4 w-10 h-10 rounded-full bg-primary-100 lg:h-12 lg:w-12 dark:bg-primary-900 text-primary-600 dark:text-primary-300">
             {{ partial "functions/get_icon" (dict "name" . "attributes" `class="w-5 h-5 lg:w-6 lg:h-6"`)  }}
           </div>
           {{ end }}
@@ -32,4 +33,5 @@
       {{ end }}
     </div>
   </div>
+  </center>
 </section>

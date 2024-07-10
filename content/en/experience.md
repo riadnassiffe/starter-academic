@@ -32,4 +32,13 @@ sections:
     content:
       title: Languages
       username: riad
+  - block: collection
+    id: publications
+    content:
+      title: Publications
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
 ---

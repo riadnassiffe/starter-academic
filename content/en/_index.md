@@ -21,26 +21,51 @@ sections:
     design:
       css_class: light
       background:
-        color: WhiteSmoke
+        # color: black
         image:
           # Add your image background to `assets/media/`.
-          # filename: stacked-peaks.svg
+          filename: IMG_7916.JPG
           filters:
             brightness: 1.0
           size: cover
-          position: center
+          position: left
           parallax: true
-  - block: resume-skills
+  - block: features
     id: skills
     content:
+      title: Main Skills
+      text: 
+      items:
+        - icon: devicon/salesforce
+          name: 
+          description: Current working!
+        - icon: devicon/git
+          name: 
+          description: Current working!
+        - icon: devicon/linux
+          name: 
+          description: Linux user since 2006.
+        - icon: arrow-trending-up
+          name: Optimization
+          description: Discrete and continuous (convex and piecewise linear) optimization problems.
+        - icon: devicon/python
+          name: 
+          description: Pygames, Flask, Django, scipy, cvxpy and ...
+        - icon: devicon/c
+          name: 
+          description: Optimization algorithms
+        - icon: devicon/java
+          name:  
+          description: Web develper in java on 2008.
+        - icon: camera
+          name:  
+          description: My travels :)
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: riad
-      # Choose a layout view
-      text: ""
+      # username: riad
+      # # Choose a layout view
+      # text: ""
     design:
-      # Choose a layout view
-      view: card
-      columns: '1'
+      css_class: 'featurette-icon'
   - block: collection
     id: post
     content:
@@ -75,7 +100,7 @@ sections:
     id: projects
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: 
       filters:
         folders:
           - project

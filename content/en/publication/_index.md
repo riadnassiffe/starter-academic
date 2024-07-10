@@ -2,9 +2,11 @@
 title: Publications
 type: landing
 
+
 design:
-  # Section spacing
-  spacing: '5rem'
+  view: article-grid
+  columns: '3'
+
 
 # Page sections
 sections:
@@ -15,8 +17,8 @@ sections:
       filters:
         folders:
           - publication
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 4
+      design:
+        view: article-grid
+        fill_image: false
+        columns: 40
 ---

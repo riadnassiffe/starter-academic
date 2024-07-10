@@ -84,6 +84,7 @@ cascade:
   - _target:
       path: /publication/**
     pager: true
+    profile: true
     editable: false
     reading_time: true
     commentable: true
