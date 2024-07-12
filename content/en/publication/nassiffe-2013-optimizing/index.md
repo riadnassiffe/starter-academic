@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Optimizing QoS in energy-aware real-time systems
+type: publication
+title: 'Optimizing QoS in energy-aware real-time systems'
 subtitle: ''
 summary: ''
 authors:
@@ -9,7 +9,8 @@ authors:
 - Eduardo Camponogara
 - George Lima
 tags:
-- RTS Energy-aware Scheduling
+- RTS 
+- Energy-aware Scheduling
 categories: []
 date: '2013-01-01'
 lastmod: 2021-03-19T09:39:08-03:00
@@ -32,8 +33,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-03-19T12:39:08.758684Z'
-publication_types:
-- 'Journal'
+publication_types: ['Journal']
 abstract: ''
 publication: '*ACM SIGBED Review*'
 ---

@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Optimizing QoS in Adaptive Real-Time Systems with Energy Constraint Varying
-  CPU Frequency
+type: page
+title: Optimizing QoS in Adaptive Real-Time Systems with Energy Constraint Varying CPU Frequency
 subtitle: ''
 summary: ''
 authors:
@@ -11,7 +10,8 @@ authors:
 - Daniel Mossé
 - Rı́ad Nassiffe
 tags:
-- RTS Energy-aware Scheduling
+- RTS 
+- Energy-aware Scheduling
 categories: []
 date: '2013-01-01'
 lastmod: 2021-03-19T09:39:11-03:00

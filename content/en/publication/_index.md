@@ -1,7 +1,11 @@
 ---
 title: Publications
+cms_exclude: true
 type: landing
 
+banner:
+  caption: ''
+  image: ''
 
 design:
   view: article-grid

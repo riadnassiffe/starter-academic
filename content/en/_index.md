@@ -99,7 +99,7 @@ sections:
   - block: collection
     id: projects
     content:
-      title: Selected Projects
+      title: Projects
       text: 
       filters:
         folders:

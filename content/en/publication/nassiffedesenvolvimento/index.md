@@ -1,6 +1,6 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
-
+type: publication
 title: Desenvolvimento de SO em camadas e kernel modular, com fins acadêmicos
 subtitle: ''
 summary: ''

@@ -38,7 +38,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-
+type: page
 ---
 
 In order to improve the communication of a RSSFs, in an environment where the transmission quality is constantly being modified, we intend to develop mathematical models for the selection of cooperating nodes, where exact and approximate algorithms will be tested. Such models will be built in an approximate way, which allows the use of efficient algorithms to solve this problem.
