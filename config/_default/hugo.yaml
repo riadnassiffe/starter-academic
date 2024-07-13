@@ -34,7 +34,7 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  home: [HTML, RSS, JSON, WebAppManifest, headers,  redirects, backlinks]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
@@ -68,6 +68,7 @@ minify:
 
 cascade:
   - _target:
+      kind: page
       path: /post/**
     pager: true
     editable: false
@@ -80,6 +81,7 @@ cascade:
       navbar:
         enable: true
   - _target:
+      kind: page
       path: /project/**
     pager: true
     editable: false

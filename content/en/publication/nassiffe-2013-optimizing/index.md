@@ -1,9 +1,8 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-type: publication
+type: Publications
 title: 'Optimizing QoS in energy-aware real-time systems'
-subtitle: ''
-summary: ''
+# subtitle: ''
+# summary: ''
 authors:
 - Rı́ad Nassiffe
 - Eduardo Camponogara
@@ -11,12 +10,22 @@ authors:
 tags:
 - RTS 
 - Energy-aware Scheduling
-categories: []
+# categories: []
 date: '2013-01-01'
 lastmod: 2021-03-19T09:39:08-03:00
 featured: false
 draft: false
 doi: "http://dx.doi.org/10.1145/2518148.2518163"
+
+
+url_pdf: http://dx.doi.org/10.1145/2518148.2518163
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -33,7 +42,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-03-19T12:39:08.758684Z'
-publication_types: ['Journal']
+publication_types: "Journal"
 abstract: ''
 publication: '*ACM SIGBED Review*'
 ---

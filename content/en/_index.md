@@ -106,8 +106,8 @@ sections:
           - project
     design:
       view: article-grid
-      fill_image: false
-      columns: '3'
+      fill_image: true
+      columns: '2'
   - block: collection
     id: publications
     content:
@@ -116,7 +116,6 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: false
     design:
       view: citation
       css_class: light
