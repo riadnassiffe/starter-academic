@@ -6,7 +6,7 @@ title: Reconfiguração dinâmica em sistemas de tempo real com restrições de 
 subtitle: ''
 summary: ''
 authors:
-- Rı́ad Mattos Nassiffe
+- Ríad Mattos Nassiffe
 tags:
 - RTS Energy-aware Scheduling
 categories: []
@@ -31,7 +31,7 @@ image:
 projects: []
 publishDate: '2021-03-19T12:39:08.574956Z'
 publication_types:
-- '7'
-abstract: ''
+- 'Journal'
+abstract: 'This dissertation proposes a framework for dynamic, value-based processor time allocation in multi-modal real-time applications under schedulability and energy consumption constraints. The framework is suitable for adaptive real-time embedded systems which need guarantees of energy savings. The dynamic allocation is formulated as a discrete optimization problem for which two algorithms are proposed. The first algorithm is based on the recursive principle of dynamic programming, whereas the second is a greedy heuristic based on Lagrangian and surrogate relaxations. As a means of evaluation, the framework was applied to a real multimedia encoder. Although the formulated problem is NP-Hard, the experimental analysis has shown that the derived heuristic achieves very good approximation results with low computational cost.'
 publication: ''
 ---

@@ -34,13 +34,13 @@ interests:
 education:
   - area: PhD in Automation and Systems Engineering
     institution: Universidade Federal de Santa Catarina, UFSC, Brasil.
-    date_start: 2015-06-01
-    date_end: 2011-12-31
+    date_start: 2011-03-03
+    date_end: 2015-06-01
     summary: |
       GPA: 3.4/4.0
   - area: Msc in Automation and Systems Engineering
     institution: Universidade Federal de Santa Catarina, UFSC, Brasil.
-    date_start: 2011-01-01
+    date_start: 2011-03-03
     date_end: 2009-01-01
     summary: |
       GPA: 3.4/4.0
@@ -71,29 +71,55 @@ profiles:
   link: https://orcid.org/0000-0003-4815-0430
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Titular professor
+    company_name:  Instituto Federal Catarinense, campus Blumenau. 
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2017-01-01
+    date_end: 2020-03-01
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Coordinator of Tecnical of Computer Science
+      - Coordinator of Bachelor of Computer Science
+      - Research coordinator
+  - position: Titular professor
+    company_name:  Instituto Federal Catarinense, campus Ibirama. 
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_end: 2017-01-01
+    summary: |2-
+      Responsibilities include:
+      - Vice-Coordinator of Tecnical of Computer Science
+  - position: Developer
+    company_name: Instituto do Recôncavo de Tecnologia, IRT, Brasil. 
+    company_url: ''
+    company_logo: ''
+    date_start: 2008-01-01
+    date_end: 2007-06-01
+    summary: |2-
+      Responsibilities include:
+      - Development of solutions to desktop manufacturer as clonning OS, recover and clone BIOS configurations.
+  - position: Developer
+    company_name:  CPM Braxis Outsourcing, CPM, Brasil. 
+    company_url: ''
+    company_logo: ''
+    date_start: 2008-01-01
+    date_end: 2007-06-01
+    summary: |2-
+      Responsibilities include:
+      - Web development with Java and ASP.
+    
+  - position: Developer
+    company_name: PETROBRAS, TI-BAN DS, Brasil. 
+    company_url: ''
+    company_logo: ''
+    date_start: 2006-07-01
+    date_end: 2007-05-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      - Web development with Java
+     
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:

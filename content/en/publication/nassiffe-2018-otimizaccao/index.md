@@ -1,11 +1,8 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
+type: publication
 title: 'OTIMIZAÇÃO COMBINATÓRIA: O PROBLEMA DE ALOCAÇÃO DE PROFESSORES FORMULADO COMO UM PROBLEMA BINÁRIO'
-subtitle: ''
-summary: ''
 authors:
-- Rı́ad Mattos Nassiffe
+- Ríad Mattos Nassiffe
 - Amanda Cadore dos Santos
 - Milene Karine Gubetti
 tags: []
@@ -32,7 +29,7 @@ image:
 projects: []
 publishDate: '2021-03-19T12:39:10.583508Z'
 publication_types:
-- '2'
-abstract: ''
+- 'Journal'
+abstract: 'https://publicacoes.ifc.edu.br/index.php/MEPEC/article/view/423'
 publication: '*Anais da Mostra de Ensino, Pesquisa, Extensão e Cidadania (MEPEC)*'
 ---

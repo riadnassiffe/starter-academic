@@ -1,13 +1,11 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
+type: Publications
 title: 'ENTRUST: VISUALIZAÇÃO GRÁFICA DE FUNÇÕES MATEMÁTICAS DE FORMA DIDÁTICA'
-subtitle: ''
 summary: ''
 authors:
 - Hylson Vescovi Netto
 - Adriano Damasceno da Silva Júnior
-- Rı́ad Mattos Nassiffe
+- Ríad Mattos Nassiffe
 - Alexandre Veloso dos Santos
 tags: []
 categories: []
@@ -32,7 +30,7 @@ image:
 projects: []
 publishDate: '2021-03-19T12:39:10.953507Z'
 publication_types:
-- '2'
+- 'Journal'
 abstract: ''
 publication: '*Anais da Mostra Nacional de Iniciação Cientı́fica e Tecnológica Interdisciplinar
   (MICTI)*'

@@ -1,15 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
-
+type: Publications
 title: Optimizing quality of service in real-time systems under energy constraints
-subtitle: ''
-summary: ''
 authors:
-- Rı́ad Nassiffe
+- Ríad Nassiffe
 - Eduardo Camponogara
 - George Lima
 tags:
-- RTS Energy-aware Scheduling
+- RTS 
+- Energy-aware Scheduling
 categories: []
 date: '2012-01-01'
 lastmod: 2021-03-19T09:39:08-03:00
@@ -33,7 +32,7 @@ image:
 projects: []
 publishDate: '2021-03-19T12:39:08.226644Z'
 publication_types:
-- '2'
-abstract: ''
-publication: '*ACM SIGOPS Operating Systems Review*'
+- 'Journal'
+abstract: 'Abstract—The problem of maximizing quality of service (QoS) of real-time systems subject to both schedulability and energy constraints is addressed. A discrete system consisting of tasks with multiple operating modes, and which can be executed by the processor at different frequency/voltage levels, is considered. Although the system reconfiguration scheme assumes the earliest deadline first (EDF) policy and soft real-time tasks, it can be extended to other scheduling policies and handle hard real-time tasks. The described solution is suitable for adaptive real-time embedded systems which require energy savings associated to QoS. Despite being NP-Hard, the reconfiguration problem can be solved with a mixed-integer linear-programing solver sufficiently fast.'
+publication: 'ACM SIGOPS Operating Systems Review'
 ---

@@ -4,12 +4,18 @@
 title: "Problem of Choosing Collaborators in a Network Sensors"
 summary: ""
 authors: ['riad']
-tags: []
-categories: []
+tags: ['WSNs']
+categories: ['WSNs']
 date: 2024-07-07T12:37:37-03:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
+
+links:
+  - name: Postdoc report(PT-Br)
+    url: 'project/NodeSelection/postDocRepPt.pdf'
+    icon_pack: fab
+    icon: page
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -41,4 +47,4 @@ slides: ""
 type: page
 ---
 
-In order to improve the communication of a RSSFs, in an environment where the transmission quality is constantly being modified, we intend to develop mathematical models for the selection of cooperating nodes, where exact and approximate algorithms will be tested. Such models will be built in an approximate way, which allows the use of efficient algorithms to solve this problem.
+In order to improve the communication of Wireless Sensor Networks (WSNs), in an environment where the transmission quality is constantly being modified, we intend to develop mathematical models for the selection of cooperating nodes, where exact and approximate algorithms will be tested. Such models will be built in an approximate way, which allows the use of efficient algorithms to solve this problem. This was my postdoc project.

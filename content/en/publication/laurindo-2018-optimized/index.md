@@ -1,6 +1,5 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
+type: Publications
 title: An optimized relay selection technique to improve the communication reliability
   in wireless sensor networks
 subtitle: ''
@@ -8,11 +7,11 @@ summary:
 authors:
 - Suelen Laurindo
 - Ricardo Moraes
-- Rı́ad Nassiffe
+- Ríad Nassiffe
 - Carlos Montez
 - Francisco Vasques
-tags: []
-categories: []
+tags: ['WSNs']
+categories: ['WSNs']
 date: '2018-01-01'
 lastmod: 2021-03-19T09:39:10-03:00
 featured: false

@@ -1,6 +1,5 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
+type: Publications
 title: A model considering QoS for real-time systems with energy and temperature constraints
 subtitle: ''
 summary: ''
@@ -10,7 +9,8 @@ authors:
 - Daniel Mossé
 - George Lima
 tags:
-- RTS Energy-aware Scheduling
+- RTS 
+- Energy-aware Scheduling
 categories: []
 date: '2014-01-01'
 lastmod: 2021-03-19T09:39:09-03:00
@@ -34,7 +34,7 @@ image:
 projects: []
 publishDate: '2021-03-19T12:39:09.154382Z'
 publication_types:
-- '1'
-abstract: ''
+- 'Article'
+abstract: 'Saving energy is widespread goal, particularly in battery-supplied real-time embedded systems. Moreover, application lifetime and delivered quality of service are associated with the amount of energy that can be saved. In this context, mechanisms for providing energy savings must be in place and should take into consideration system-wide aspects such as CPU usage and temperature, which influence in the energy consumed by the system. In this paper we describe a model to capture such needs. The model is formalized as a convex optimization problem, with the goal of maximizing system quality of service while being subject to schedulability, energy, and temperature constraints. The CPU frequency and task execution time are decision variables. The effectiveness and behavior of the proposed solution is shown through numerical analysis. We conclude that a good approximate solution is enough for guarantee the constraints.'
 publication: '*2014 Brazilian Symposium on Computing Systems Engineering*'
 ---

@@ -1,6 +1,5 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
+type: publication
 type: Publications
 title: Experiências e Ações junto a Coordenação de Pesquisa, Pós-graduação e Inovação do Instituto Federal de Catarinense Campus Blumenau
 subtitle: ''
@@ -14,7 +13,7 @@ categories: []
 date: '2018-01-01'
 lastmod: 2021-03-19T09:39:10-03:00
 featured: false
-draft: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -39,14 +38,7 @@ publication: '*Anais da Mostra de Ensino, Pesquisa, Extensão e Cidadania (MEPEC
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+
 ---
 
 

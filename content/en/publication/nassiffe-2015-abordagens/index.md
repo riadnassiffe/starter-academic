@@ -1,6 +1,5 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
+type: Publications
 title: Abordagens para reconfiguração de sistemas de tempo real com QoS e restrições de energia e temperatura
 subtitle: ''
 summary: ''
@@ -34,7 +33,10 @@ publishDate: '2021-03-19T12:39:09.329685Z'
 publication_types:
 - '7'
 abstract: 'This thesis proposes a framework for dynamic reconfiguration, value-based processor resource allocation in multi-modal or not real-time applications, under schedulability, energy consumption and temperature constraints. The framework is suitable for critical and soft real-time adaptive embedded systems which need guarantees of energy savings. The dynamic allocation is formulated as a discrete and continuous (convex and piecewise linear) optimization problem for which efficients algorithms were tested. Although the discrete problem is NP-Hard, the others have efficient solution and numerical analysis and simulations have shown that the used algorithms and models achieves very good results, with low computational cost.'
-publication: ''
+publication: 
+
+url_pdf: https://repositorio.ufsc.br/xmlui/bitstream/handle/123456789/158798/337447.pdf?sequence=1&isAllowed=y
+
 ---
 
 [Download *(Brazilian Portuguese)*](https://repositorio.ufsc.br/xmlui/bitstream/handle/123456789/158798/337447.pdf?sequence=1&isAllowed=y)
