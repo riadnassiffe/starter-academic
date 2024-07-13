@@ -26,7 +26,7 @@ sections:
       show_skill_percentage: false
   - block: resume-awards
     content:
-      title: Cursos
+      title: Cursos & Certifications
       username: riad
   - block: resume-languages
     content:

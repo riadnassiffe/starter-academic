@@ -201,11 +201,25 @@ skills:
         icon: camera
 
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: Salesforce Admin Certificate
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+    awarder: Salesforce
+    icon: salesforce
+    summary: |
+      I studied the foundational concept of neural network
+  - title: Curso de 
+    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2023-11-25'
+    awarder: Udemy
+    icon: udemy
+    summary: |
+      I studied the foundational concept of neural network 
+  - title: Curso de 
+    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2023-11-25'
+    awarder: Udemy
+    icon: udemy
     summary: |
       I studied the foundational concept of neural network
 # Greetings! My name is Ríad Mattos Nassiffe, I am curre professor at IFC-campus Blumenau. I am computer science professor at technical computing and bachelor at Computer Science courses. I teach disciplines about programming, operating system, data structure, embedded system and architecture and organization.
