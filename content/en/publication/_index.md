@@ -2,9 +2,9 @@
 title: Publications
 type: landing
 
-# banner:
-#   caption: ''
-#   image: ''
+banner:
+  caption: ''
+  image: 'featured.JPG'
 
 sections:
   - block: collection
@@ -15,4 +15,9 @@ sections:
       filters:
         folders:
           - publication
+    design:
+      view: citation
+      css_class: light
+      background:
+        color: WhiteSmoke
 ---
