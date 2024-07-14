@@ -103,7 +103,8 @@
 
         {{ if .Params.abstract }}
           <div class="font-bold text-2xl">{{ i18n "abstract" }}</div>
-          <div>{{ .Params.abstract | markdownify }}</div>
+      
+          <div style="text-align:justify">{{ .Params.abstract | markdownify }}</div>
         {{ end }}
 
         {{/* If the type is Uncategorized, hide the type. */}}
