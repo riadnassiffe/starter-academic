@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2021-03-19T12:39:08.045079Z'
 publication_types:
-- '1'
+- 'Article'
 abstract: 'The problem of maximizing quality of service (QoS) of real-time systems subject to both schedulability and energy constraints is addressed. A discrete system consisting of tasks with multiple operating modes, and which can be executed by the processor at different frequency/voltage levels, is considered. Although the system reconfiguration scheme assumes the earliest deadline first (EDF) policy and soft real-time tasks, it can be extended to other scheduling policies and handle hard real-time tasks. The described solution is suitable for adaptive real-time embedded systems which require energy savings associated to QoS. Despite being NP-Hard, the reconfiguration problem can be solved with a mixed-integer linear-programing solver sufficiently fast.'
 publication: '*2011 Brazilian Symposium on Computing System Engineering*'
 ---

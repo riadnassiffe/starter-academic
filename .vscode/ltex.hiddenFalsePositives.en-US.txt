@@ -1,0 +1,1 @@
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QIn order to apply this the IEM software — it is a software that runs on ARM processor to classify the types of activity and to analyze their processor utilization patterns for global prediction about the future performance required by the system defines frames that are directly related to the performance level.\\E$"}

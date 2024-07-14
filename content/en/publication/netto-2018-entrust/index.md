@@ -31,7 +31,8 @@ projects: []
 publishDate: '2021-03-19T12:39:10.953507Z'
 publication_types:
 - 'Journal'
-abstract: ''
+abstract: 'It was a project developed by students of the technical course of IFC, the main focus was the implementation of a graphical tool to visualize the equations of first and second order.'
 publication: '*Anais da Mostra Nacional de Iniciação Cientı́fica e Tecnológica Interdisciplinar
   (MICTI)*'
+url_pdf: 'https://publicacoes.ifc.edu.br/index.php/micti/article/view/929/750'
 ---

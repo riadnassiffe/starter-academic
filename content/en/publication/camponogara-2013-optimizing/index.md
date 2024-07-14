@@ -35,7 +35,7 @@ image:
 projects: []
 publishDate: '2021-03-19T12:39:11.318411Z'
 publication_types:
-- 'Brazilian Symposium on Computing Systems Engineering'
-abstract: ''
+- 'Article'
+abstract: 'The life time of some real-time systems is determined by batteries, thus necessitating a mechanism for energy management. These systems must consider not only schedulability constraints to ensure temporal correctness, but also their energy limitations to accomplish their considered mission. Moreover, it is still desired that the system provides services with the best possible quality. This work presents a problem of selecting the frequency for each task to fulfil the system goal, while considering issues of schedulability and energy consumption. The problem is formulated in mathematical programming and solved with a convex-optimisation algorithm. It is assumed that CPU frequency can be selected continuously within a given range. The system reconfiguration scheme assumes the earliest deadline first (EDF) policy, with soft and hard real-time tasks managed by some bandwidth reservation scheme. The effectiveness of the proposed solution is shown through numerical and simulation analysis.'
 publication: '*2013 III Brazilian Symposium on Computing Systems Engineering*'
 ---

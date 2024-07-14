@@ -10,9 +10,9 @@ main:
   - name: Skills
     url: /#skills
     weight: 15
-  - name: Courses
-    url: /#courses
-    weight: 17
+  # - name: Courses
+  #   url: /#courses
+  #   weight: 17
   - name: Projects
     url: /#projects
     weight: 20

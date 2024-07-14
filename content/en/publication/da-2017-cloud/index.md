@@ -1,9 +1,6 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: CLOUD OF BOOKS
-subtitle: ''
-summary: ''
+type: Publications
+title: 'CLOUD OF BOOKS'
 authors:
 - Adriano Damasceno da Silva Júnior
 - Amanda Cadore dos Santos
@@ -11,14 +8,14 @@ authors:
 - Sofia Katherine Cimardi
 - Aldelir Fernando Luiz
 - Luiz Ricardo Uriarte
-- R\ád Mattos Nassiffe
+- Ríad Mattos Nassiffe
 tags: []
 categories: []
 date: '2017-01-01'
 lastmod: 2021-03-19T09:39:10-03:00
 featured: false
 draft: false
-doi: "https://doi.org/10.1109/SBESC.2014.10"
+doi: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -36,7 +33,8 @@ image:
 projects: []
 publishDate: '2021-03-19T12:39:10.765192Z'
 publication_types:
-- 'MEPEC'
-abstract: ''
+- 'Journal'
+abstract: 'It was a project developed by students of the technical course of IFC, the main focus was to help readers to catalog their achievements and share with friends.'
 publication: '*Anais da Mostra de Ensino, Pesquisa, Extensão e Cidadania (MEPEC)*'
+url_pdf: 'https://publicacoes.ifc.edu.br/index.php/MEPEC/article/view/256/231'
 ---

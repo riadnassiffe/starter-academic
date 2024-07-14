@@ -36,20 +36,16 @@ education:
     institution: Universidade Federal de Santa Catarina, UFSC, Brasil.
     date_start: 2011-03-03
     date_end: 2015-06-01
-    summary: |
-      GPA: 3.4/4.0
   - area: Msc in Automation and Systems Engineering
     institution: Universidade Federal de Santa Catarina, UFSC, Brasil.
     date_start: 2011-03-03
     date_end: 2009-01-01
-    summary: |
-      GPA: 3.4/4.0
   - area: BSc in Computer Science
     institution: Faculdade Ruy Barbosa, FRB, Brasil.
     date_start: 2008-06-01
     date_end: 2004-02-01
-    summary: |
-      GPA: 3.4/4.0
+    # summary: |
+    #   GPA: 3.4/4.0
 
 
 # Social/Academic Networking
@@ -169,59 +165,63 @@ languages:
 email: "riad.nassiffe@gmail.com"
 
 skills:
-  - name: Technical Skills
+  - name: Salesforce Skills
     items:
-      - name: Salesforce
-        description: 'Current working!'
+      - name: Sales
+        icon: devicon/salesforce 
+      - name: Commerce
         icon: devicon/salesforce
+      - name: LWC
+        icon: devicon/salesforce
+      - name: Flows
+        icon: devicon/salesforce    
+  - name: Porgramming
+    items:
+      - name: Apex
+        icon: devicon/apex
       - name: Python
-        description: 'Pygames, Flask, Django, scipy, cvxpy and …'
-        icon: devicon/python
+        icon: devicon/python 
+      - name: C
+        icon: devicon/c 
+      - name: AMPL
+        icon: devicon/ampl 
+      - name: Java
+        icon: devicon/java 
+  - name: Others
+    items:
       - name: Linux
         description: 'Linux user since 2006.'
         icon: devicon/linux
-      - name: Java
-        description: ''
-        icon: devicon/java
+      - name: Git 
+        description: 'Current working!'
+        icon: devicon/git
       - name: Optmization
+        icon: arrow-trending-up
         descriptio: 'Discrete and continuous (convex and piecewise linear) optimization problems.'
-        icon: chart-bar 
-      - name: C
-        description: 'Optimization algorithms'
-        icon: devicon/c
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        icon: person-simple-walk
-      - name: Photography
-        description: ''
-        icon: camera
+      - name: Real Time Systems
 
 awards:
-  - title: Salesforce Admin Certificate
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+  - title: Salesforce Certified Administrator (ID:3331555)
+    url: https://sforce.co/verifycerts
+    date: '2023-04-27'
     awarder: Salesforce
     icon: salesforce
     summary: |
-      I studied the foundational concept of neural network
-  - title: Curso de 
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+      Salesforce Certified Administrator Certificate since 2023
+  - title: Planejamento e Gestão de Projetos (Project Planning and Management)
+    url: https://www.udemy.com/certificate/UC-86365707-6567-4566-a3f5-d81d955404fd/
     date: '2023-11-25'
     awarder: Udemy
     icon: udemy
     summary: |
-      I studied the foundational concept of neural network 
-  - title: Curso de 
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Udemy
-    icon: udemy
-    summary: |
-      I studied the foundational concept of neural network
+      I studied the bases of project planning and management
+  # - title: Curso de 
+  #   url: https://www.coursera.org/learn/neural-networks-deep-learning
+  #   date: '2023-11-25'
+  #   awarder: Udemy
+  #   icon: udemy
+  #   summary: |
+  #     I studied the foundational concept of neural network
 # Greetings! My name is Ríad Mattos Nassiffe, I am curre professor at IFC-campus Blumenau. I am computer science professor at technical computing and bachelor at Computer Science courses. I teach disciplines about programming, operating system, data structure, embedded system and architecture and organization.
 
 ---

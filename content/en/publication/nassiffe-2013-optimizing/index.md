@@ -42,9 +42,8 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-03-19T12:39:08.758684Z'
-publication_types: "Journal"
-abstract: 'Embedded real-time systems powered by batteries require suitable support for energy-savings at the operating system level. Mechanisms to do so must take into consideration not only energy constraints but also schedulability since, in this kind of system, tasks must execute within predefined time windows. On top of that, it is desired that application quality of service (QoS) is optimized.
+publication_types: ["Journal"]
+abstract: 'Embedded real-time systems powered by batteries require suitable support for energy-savings at the operating system level. Mechanisms to do so must take into consideration not only energy constraints but also schedulability since, in this kind of system, tasks must execute within predefined time windows. On top of that, it is desired that application quality of service (QoS) is optimized. In this paper we present a framework capable of maximizing application QoS subject to both schedulability and energy constraints. It is assumed that application tasks may have multiple operating modes, each of which exhibiting a specific QoS level when running at a specific processor operating frequency. Although the formulated problem is NP-Hard, experimental analysis has shown that the derived heuristic to solve it achieves very good approximation results and presents low running time.'
 
-In this paper we present a framework capable of maximizing application QoS subject to both schedulability and energy constraints. It is assumed that application tasks may have multiple operating modes, each of which exhibiting a specific QoS level when running at a specific processor operating frequency. Although the formulated problem is NP-Hard, experimental analysis has shown that the derived heuristic to solve it achieves very good approximation results and presents low running time.'
 publication: '*ACM SIGBED Review*'
 ---

@@ -9,7 +9,9 @@
 
       <div class="content text-base">
         <h1>{{ .Title }}</h1>
-        {{ .Content }}
+        <span style: "text-align:justify">
+          {{ .Content }}
+        </span>
       </div>
 
       {{ partial "components/last-edited.html" . }}

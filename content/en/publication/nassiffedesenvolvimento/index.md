@@ -1,8 +1,6 @@
 ---
-type: publication
+type: Publications
 title: Desenvolvimento de SO em camadas e kernel modular, com fins acadêmicos
-summary: 'This course completion work shows the second version of the APOS
-( Academic Purpose Operational System). The goal of this system is make easer for the students and scientists that are starting at the field of Operational System.'
 authors:
 - Ríad Mattos Nassiffe
 - Edeyson Gomes
@@ -38,7 +36,7 @@ image:
 projects: [APOS]
 publishDate: '2008-03-19T12:39:08.389966Z'
 publication_types:
-- '2'
-abstract: ''
+- Undergraduate final project
+abstract: 'This course completion work shows the second version of the APOS ( Academic Purpose Operational System). The goal of this system is make easer for the students and scientists that are starting at the field of Operational System.'
 publication: ''
 ---
