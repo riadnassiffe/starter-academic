@@ -9,8 +9,8 @@ tags:
 categories:
   - RTS
   - Energy-aware Scheduling
-# PublishDate: 2021-03-18T14:15:59
-# Lastmod: 2021-03-19T14:15:59
+PublishDate: 2021-03-18T14:15:59
+Lastmod: 2024-07-14T14:53:59
 # unnamed: false
 # draft: false
 commentable: true
@@ -18,8 +18,8 @@ commentable: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-# image:
-#   caption: 'Image credit: Ríad Mattos Nassiffe'
+image:
+  caption: 'Image credit: Ríad Mattos Nassiffe'
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

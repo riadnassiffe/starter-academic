@@ -14,7 +14,7 @@
 
 appearance:
   theme_default: light
-  mode: system
+  mode: light
   color: blue
   font_size: l
 
