@@ -29,8 +29,7 @@ marketing:
     description: 'A blog about dev stuff.'
     twitter: 'riadNassiffe'
   analytics:
-    google_tag_manager: ' GTM-5PDJ924'
-    baidu_tongji: ''
+    google_tag_manager: 'GTM-5PDJ924'
     #google_tag_manager: ''
     microsoft_clarity: ''
   verification:
