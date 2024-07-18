@@ -15,7 +15,7 @@
 appearance:
   theme_default: light
   mode: light
-  color: blue
+  color: zinc
   font_size: l
 
 
