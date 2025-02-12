@@ -82,7 +82,7 @@ work:
     company_name:  Sottama. 
     company_url: 'https://www.sottama.com/'
     company_logo: ''
-    date_start: 2020-03-01
+    date_start: 2022-02-01
     date_end: 2024-12-01
     summary: |2-
       Responsibilities include:
