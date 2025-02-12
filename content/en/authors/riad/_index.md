@@ -9,15 +9,15 @@ first_name: Ríad
 last_name: Nassiffe
 
 # Role/position/tagline
-role: Hearder of AMS & In-house Resource Training # Professor of Computer Science
+role: Professor of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Sottama #IFC-Blumenau
-  url: Https://www.sottama.com # blumenau.ifc.edu.br
+- name: IFC-Blumenau
+  url:  blumenau.ifc.edu.br
 
 # Short bio (displayed in user profile at end of posts)
-bio: #My research interests include power energy and temperature aware systems, real-time systems, optimization, embedded Systems and operating Systems .
+bio: My research interests include power energy and temperature aware systems, real-time systems, optimization, embedded Systems and operating Systems .
 
 status:
   icon: ☕️
@@ -72,7 +72,18 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2017-01-01
-    date_end: 2020-03-01
+    date_end: 
+    summary: |2-
+      Responsibilities include:
+      - Coordinator of Tecnical of Computer Science
+      - Coordinator of Bachelor of Computer Science
+      - Research coordinator
+  - position: Head of AMS & In-house Resource Training
+    company_name:  Sottama. 
+    company_url: 'https://www.sottama.com/'
+    company_logo: ''
+    date_start: 2020-03-01
+    date_end: 2024-12-01
     summary: |2-
       Responsibilities include:
       - Coordinator of Tecnical of Computer Science
@@ -226,4 +237,4 @@ awards:
 
 ---
 ## About me
-Greetings! My name is Ríad Mattos Nassiffe, I am developer, currently away working at [Sottama](https://www.sottama.com/) with [Salesforce](https://www.salesforce.com) platform. The posts in this site will focus on Salesforce, algorithms, Real-time systems and Arduino.
+Greetings! My name is Ríad Mattos Nassiffe, and I am currently a professor at [IFC-campus Blumenau](https://blumenau.ifc.edu.br/). I teach computer science in the technical computing and bachelor's degree programs in Computer Science. My courses cover programming, operating systems, data structures, embedded systems, and computer architecture and organization.
