@@ -30,8 +30,8 @@ marketing:
     twitter: 'riadNassiffe'
   analytics:
     google_tag_manager: 'GTM-5PDJ924'
-    #google_tag_manager: ''
-    microsoft_clarity: ''
+    google_analytics: 'G-5R1VVRQKBT'
+    # microsoft_clarity: ''
   verification:
     # google: ''
     baidu: ''

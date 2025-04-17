@@ -109,6 +109,18 @@ sections:
       fill_image: true
       columns: '2'
   - block: collection
+    id: teachings
+    content:
+      title: Teachings
+      text: This section will have text in Portuguese, due to the courses are happening in Portuguese.
+      filters:
+        folders:
+          - teachings
+    design:
+      view: article-grid
+      fill_image: true
+      columns: '2'
+  - block: collection
     id: publications
     content:
       title: Publications
