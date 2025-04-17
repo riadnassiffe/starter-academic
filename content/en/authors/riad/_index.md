@@ -86,9 +86,8 @@ work:
     date_end: 2024-12-01
     summary: |2-
       Responsibilities include:
-      - Coordinator of Tecnical of Computer Science
-      - Coordinator of Bachelor of Computer Science
-      - Research coordinator
+      - Coordinator of AMS 
+      - Coordinator of In-house Resource Training
   - position: Titular professor
     company_name:  Instituto Federal Catarinense, campus Ibirama. 
     company_url: ''
