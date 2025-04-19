@@ -6,7 +6,7 @@ summary: ""
 authors: ['riad']
 tags: ['WSNs']
 categories: ['WSNs']
-date: 2024-07-07T12:37:37-03:00
+date: '2024-07-07T12:37:37-03:00'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -44,7 +44,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-type: page
+# type: page
 ---
 
 In order to improve the communication of Wireless Sensor Networks (WSNs), in an environment where the transmission quality is constantly being modified, we intend to develop mathematical models for the selection of cooperating nodes, where exact and approximate algorithms will be tested. Such models will be built in an approximate way, which allows the use of efficient algorithms to solve this problem. This was my postdoc project.

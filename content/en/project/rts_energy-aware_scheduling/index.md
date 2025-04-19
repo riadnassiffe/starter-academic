@@ -11,7 +11,7 @@ tags:
 categories:
 - Energy-aware Scheduling
 - RTS
-date: 2021-03-19T20:10:16-03:00
+date: '2021-03-19T20:10:16-03:00'
 draft: false
 
 

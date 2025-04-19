@@ -93,7 +93,7 @@ features:
     gravatar: true
     shape: circle
   comment:
-    provider: 'giscus'
+    provider: ''
     disqus:
       shortname: ''
       show_count: true

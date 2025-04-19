@@ -11,7 +11,7 @@ categories:
 - Django
 - Python
 draft: false
-date: 2025-04-16T14:10:16-03:00
+date: '2025-04-16T14:10:16-03:00'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

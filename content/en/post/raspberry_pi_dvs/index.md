@@ -9,8 +9,8 @@ tags:
 categories:
   - RTS
   - Energy-aware Scheduling
-PublishDate: 2021-03-18T14:15:59
-Lastmod: 2024-07-14T14:53:59
+PublishDate: '2021-03-18T14:15:59'
+Lastmod: '2024-07-14T14:53:59'
 # unnamed: false
 # draft: false
 commentable: true

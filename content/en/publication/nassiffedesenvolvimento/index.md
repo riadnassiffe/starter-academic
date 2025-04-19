@@ -6,7 +6,7 @@ authors:
 - Edeyson Gomes
 tags: [OS ]
 categories: []
-date: -01-01
+date: '2018-01-01'
 lastmod: 2021-03-19T09:39:08-03:00
 featured: false
 draft: false

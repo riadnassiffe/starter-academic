@@ -22,7 +22,7 @@ removePathAccents: true
 
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+#paginate: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
@@ -34,7 +34,7 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers,  redirects, backlinks]
+  home: [HTML, RSS, JSON, WebAppManifest,   backlinks] #redirects headers
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos

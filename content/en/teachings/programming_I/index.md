@@ -10,7 +10,7 @@ categories:
 - Programming
 - Algorithm
 - Python
-date: 2021-03-19T20:10:16-03:00
+date: '2021-03-19T20:10:16-03:00'
 draft: true
 
 # Optional external URL for project (replaces project detail page).

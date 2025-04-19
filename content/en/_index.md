@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: "Ríad M. Nassiffe"
-date: 2022-10-24
+date: '2022-10-24'
 type: landing
 
 design:
@@ -11,7 +11,6 @@ design:
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: riad
       text: ""
       # Show a call-to-action button under your biography? (optional)
@@ -30,11 +29,11 @@ sections:
           size: cover
           position: left
           parallax: true
-  - block: features
+  - block:  features
     id: skills
     content:
-      title: Main Skills
-      text: 
+      title: 'Main Skills'
+      subtitle: ''
       items:
         - icon: devicon/salesforce
           name: 
@@ -69,9 +68,8 @@ sections:
   - block: collection
     id: post
     content:
-      title: Posts
+      title: 'Posts'
       subtitle: ''
-      text: ''
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
@@ -99,8 +97,7 @@ sections:
   - block: collection
     id: projects
     content:
-      title: Projects
-      text: 
+      title: 'Projects'
       filters:
         folders:
           - project
