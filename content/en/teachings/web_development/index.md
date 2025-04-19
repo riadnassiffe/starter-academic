@@ -10,7 +10,7 @@ categories:
 - Web Development I
 - Django
 - Python
-draft: false
+draft: true
 date: '2025-04-16T14:10:16-03:00'
 
 # Optional external URL for project (replaces project detail page).

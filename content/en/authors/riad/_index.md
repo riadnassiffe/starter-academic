@@ -26,7 +26,6 @@ highlight_name: true
 
 # Interests to show in About widget
 interests:
-  - Salesforce Platform
   - Optimization
   - Embedded Systems
   

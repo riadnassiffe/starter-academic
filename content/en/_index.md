@@ -29,42 +29,42 @@ sections:
           size: cover
           position: left
           parallax: true
-  - block:  features
-    id: skills
-    content:
-      title: 'Main Skills'
-      subtitle: ''
-      items:
-        - icon: devicon/salesforce
-          name: 
-          description: Current working!
-        - icon: devicon/git
-          name: 
-          description: Current working!
-        - icon: devicon/linux
-          name: 
-          description: Linux user since 2006.
-        - icon: arrow-trending-up
-          name: Optimization
-          description: Discrete and continuous (convex and piecewise linear) optimization problems.
-        - icon: devicon/python
-          name: 
-          description: Pygames, Flask, Django, scipy, cvxpy and ...
-        - icon: devicon/c
-          name: 
-          description: Optimization algorithms
-        - icon: devicon/java
-          name:  
-          description: Web develper in java on 2008.
-        - icon: camera
-          name:  
-          description: My travels :)
+  # - block:  features
+    # id: skills
+    # content:
+    #   title: 'Main Skills'
+    #   subtitle: ''
+    #   items:
+    #     - icon: devicon/salesforce
+    #       name: 
+    #       description: Current working!
+    #     - icon: devicon/git
+    #       name: 
+    #       description: Current working!
+    #     - icon: devicon/linux
+    #       name: 
+    #       description: Linux user since 2006.
+    #     - icon: arrow-trending-up
+    #       name: Optimization
+    #       description: Discrete and continuous (convex and piecewise linear) optimization problems.
+    #     - icon: devicon/python
+    #       name: 
+    #       description: Pygames, Flask, Django, scipy, cvxpy and ...
+    #     - icon: devicon/c
+    #       name: 
+    #       description: Optimization algorithms
+    #     - icon: devicon/java
+    #       name:  
+    #       description: Web develper in java on 2008.
+    #     - icon: camera
+    #       name:  
+    #       description: My travels :)
       # Choose a user profile to display (a folder name within `content/authors/`)
       # username: riad
       # # Choose a layout view
       # text: ""
-    design:
-      css_class: 'featurette-icon'
+    # design:
+    #   css_class: 'featurette-icon'
   - block: collection
     id: post
     content:

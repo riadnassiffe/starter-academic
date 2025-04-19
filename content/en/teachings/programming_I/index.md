@@ -10,8 +10,8 @@ categories:
 - Programming
 - Algorithm
 - Python
-date: '2021-03-19T20:10:16-03:00'
 draft: true
+date: '2021-03-19T20:10:16-03:00'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -46,7 +46,7 @@ slides: ""
 ---
 **Class:** Thus either at 11am or 4:30pm, zoom link
 
-**Instructor:**	Eder Augusto Penharbel (eder.penharbel@ifc.edu.br) and Ríad Mattos Nassiffe (riad.nassiffe@ifc.edu.br)
+**Instructor:**Ríad Mattos Nassiffe (riad.nassiffe@ifc.edu.br)
 
 **Office Hours:**	(or by appointment) 
 

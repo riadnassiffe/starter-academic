@@ -18,8 +18,8 @@ sections:
       filters:
         folders:
           - teachings
-    # design:
-    #   view: article-grid
-    #   fill_image: false
-    #   columns: 3
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 4
 ---

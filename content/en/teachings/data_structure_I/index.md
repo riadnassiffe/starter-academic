@@ -9,7 +9,7 @@ tags:
 categories:
 - Data Structure I
 - Algorithm
-draft: false
+draft: true
 date: '2021-03-19T20:10:16-03:00'
 
 # Optional external URL for project (replaces project detail page).
@@ -43,3 +43,12 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+### Course syllabus
+
+### Course Objectives 
+
+### Grading
+
+### Programming Assignments 
+
+### Getting Answers to your Questions 
