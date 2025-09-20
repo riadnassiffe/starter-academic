@@ -15,20 +15,24 @@ date: '2020-01-01'
 lastmod: 2021-03-19T09:39:11-03:00
 featured: false
 draft: false
-doi: "http://dx.doi.org/10.21166/rext.v7i13.1231"
+hugoblox:
+  ids:
+    doi: "http://dx.doi.org/10.21166/rext.v7i13.1231"
 
 type: Publications
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://dx.doi.org/10.21166/rext.v7i13.1231
+links:
+  - type: pdf
+    url:  http://dx.doi.org/10.21166/rext.v7i13.1231
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+
 url_video: ''
 
 # Featured image

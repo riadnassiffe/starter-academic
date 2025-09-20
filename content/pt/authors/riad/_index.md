@@ -1,0 +1,232 @@
+---
+# Display name
+title: Ríad M. Nassiffe
+
+# Is this the primary user of the site?
+superuser: true
+
+first_name: Ríad
+last_name: Nassiffe
+
+# Role/position/tagline
+role: Professor EBTT
+
+# Organizations/Affiliations to show in About widget
+organizations:
+- name: IFC-Blumenau
+  url:  blumenau.ifc.edu.br
+# Short bio (displayed in user profile at end of posts)
+bio: Meus interesses de pesquisa incluem sistemas cientes do consumo de energia e temperatura, sistemas de tempo real, otimização, sistemas embarcados e sistemas operacionais.
+status:
+  icon: ☕️
+
+highlight_name: true
+
+# Interests to show in About widget
+interests:
+  - Optimization
+  - Embedded Systems
+  
+# Education to show in About widget
+education:
+  - area: Dr. Eng. Automação e Sistemas
+    institution: Universidade Federal de Santa Catarina, UFSC, Brasil.
+    # date_start: 2011-03-03
+    # date_end: 2015-06-01
+  - area: M.e. em Eng. Automação e Sistemas
+    institution: Universidade Federal de Santa Catarina, UFSC, Brasil.
+    # date_start: 2011-03-03
+    # date_end: 2009-01-01
+  - area: B.el. in Computer Science
+    institution: Faculdade Ruy Barbosa, FRB, Brasil.
+    # date_start: 2008-06-01
+    # date_end: 2004-02-01
+
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+profiles:
+- icon: envelope
+  link: mailto:riad.nassiffe@gmail.com
+- icon: brands/twitter
+  link: https://twitter.com/riadNassiffe
+- icon: academicons/google-scholar
+  link: https://scholar.google.com.br/citations?hl=pt-BR&user=QZu0ADMAAAAJ
+- icon: brands/github
+  link: https://github.com/riadNassiffe
+- icon: brands/linkedin
+  link: https://www.linkedin.com/in/r%C3%ADad-mattos-nassiffe-40820911/
+- icon: academicons/orcid
+  link: https://orcid.org/0000-0003-4815-0430
+
+work:
+  - position: Titular professor
+    company_name:  Instituto Federal Catarinense, campus Blumenau. 
+    company_url: ''
+    company_logo: ''
+    date_start: 2017-01-01
+    date_end: 
+    summary: |2-
+      Responsibilities include:
+      - Coordinator of Tecnical of Computer Science
+      - Coordinator of Bachelor of Computer Science
+      - Research coordinator
+  - position: Head of AMS & In-house Resource Training
+    company_name:  Sottama. 
+    company_url: 'https://www.sottama.com/'
+    company_logo: ''
+    date_start: 2022-02-01
+    date_end: 2024-12-01
+    summary: |2-
+      Responsibilities include:
+      - Coordinator of AMS 
+      - Coordinator of In-house Resource Training
+  - position: Titular professor
+    company_name:  Instituto Federal Catarinense, campus Ibirama. 
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2017-01-01
+    summary: |2-
+      Responsibilities include:
+      - Vice-Coordinator of Tecnical of Computer Science
+  - position: Developer
+    company_name: Instituto do Recôncavo de Tecnologia, IRT, Brasil. 
+    company_url: ''
+    company_logo: ''
+    date_start: 2008-01-01
+    date_end: 2007-06-01
+    summary: |2-
+      Responsibilities include:
+      - Development of solutions to desktop manufacturer as clonning OS, recover and clone BIOS configurations.
+  - position: Developer
+    company_name:  CPM Braxis Outsourcing, CPM, Brasil. 
+    company_url: ''
+    company_logo: ''
+    date_start: 2008-01-01
+    date_end: 2007-06-01
+    summary: |2-
+      Responsibilities include:
+      - Web development with Java and ASP.
+    
+  - position: Developer
+    company_name: PETROBRAS, TI-BAN DS, Brasil. 
+    company_url: ''
+    company_logo: ''
+    date_start: 2006-07-01
+    date_end: 2007-05-31
+    summary: |
+      Responsibilities include:
+      - Web development with Java
+     
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 80
+#         icon: code-bracket
+#       - name: Data Science
+#         description: ''
+#         percent: 100
+#         icon: chart-bar
+#       - name: SQL
+#         description: ''
+#         percent: 40
+#         icon: circle-stack
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Hiking
+#         description: ''
+#         percent: 60
+#         icon: person-simple-walk
+#       - name: Cats
+#         description: ''
+#         percent: 100
+#         icon: cat
+#       - name: Photography
+#         description: ''
+#         percent: 80
+#         icon: camera
+
+languages:
+  - name: Portuguese
+  - name: English
+
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: media/resume.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: "riad.nassiffe@gmail.com"
+
+skills:
+  - name: Salesforce Skills
+    items:
+      - name: Sales
+        icon: devicon/salesforce 
+      - name: Commerce
+        icon: devicon/salesforce
+      - name: LWC
+        icon: devicon/salesforce
+      - name: Flows
+        icon: devicon/salesforce    
+  - name: Programming
+    items:
+      - name: Apex
+        icon: devicon/apex
+      - name: Python
+        icon: devicon/python 
+      - name: C
+        icon: devicon/c 
+      - name: AMPL
+        icon: devicon/ampl 
+      - name: Java
+        icon: devicon/java 
+  - name: Others
+    items:
+      - name: Linux
+        description: 'Linux user since 2006.'
+        icon: devicon/linux
+      - name: Git 
+        description: 'Current working!'
+        icon: devicon/git
+      - name: Optmization
+        icon: arrow-trending-up
+        descriptio: 'Discrete and continuous (convex and piecewise linear) optimization problems.'
+      - name: Real Time Systems
+
+awards:
+  - title: Salesforce Certified Administrator (ID:3331555)
+    url: https://sforce.co/verifycerts
+    date: '2023-04-27'
+    awarder: Salesforce
+    icon: salesforce
+    summary: |
+      Salesforce Certified Administrator Certificate since 2023
+  - title: Planejamento e Gestão de Projetos (Project Planning and Management)
+    url: https://www.udemy.com/certificate/UC-86365707-6567-4566-a3f5-d81d955404fd/
+    date: '2023-11-25'
+    awarder: Udemy
+    icon: udemy
+    summary: |
+      I studied the bases of project planning and management
+  # - title: Curso de 
+  #   url: https://www.coursera.org/learn/neural-networks-deep-learning
+  #   date: '2023-11-25'
+  #   awarder: Udemy
+  #   icon: udemy
+  #   summary: |
+  #     I studied the foundational concept of neural network
+# Greetings! My name is Ríad Mattos Nassiffe, I am curre professor at IFC-campus Blumenau. I am computer science professor at technical computing and bachelor at Computer Science courses. I teach disciplines about programming, operating system, data structure, embedded system and architecture and organization.
+
+---
+Meu nome é Ríad Mattos Nassiffe e atualmente sou professor no [IFC-campus Blumenau](https://blumenau.ifc.edu.br/). Leciono para os cursos técnico em informática e para o bacharelado em Ciência da Computação. Ministro as disciplinas de programação, sistemas operacionais, estrutura de dados, sistemas embarcados e arquitetura e organização de computadores.

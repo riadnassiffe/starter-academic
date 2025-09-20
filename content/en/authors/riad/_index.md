@@ -35,6 +35,11 @@ education:
     institution: Universidade Federal de Santa Catarina, UFSC, Brasil.
     date_start: 2011-03-03
     date_end: 2015-06-01
+    # summary: |
+    #   Thesis on 
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com/thesis.pdf'
   - area: Msc in Automation and Systems Engineering
     institution: Universidade Federal de Santa Catarina, UFSC, Brasil.
     date_start: 2011-03-03
@@ -43,9 +48,6 @@ education:
     institution: Faculdade Ruy Barbosa, FRB, Brasil.
     date_start: 2008-06-01
     date_end: 2004-02-01
-    # summary: |
-    #   GPA: 3.4/4.0
-
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -68,8 +70,8 @@ profiles:
 work:
   - position: Titular professor
     company_name:  Instituto Federal Catarinense, campus Blumenau. 
-    company_url: ''
-    company_logo: ''
+    company_url: 'https://blumenau.ifc.edu.br/'
+    company_logo: 'https://cecom.ifc.edu.br/wp-content/uploads/sites/10/2022/10/Logo_IFC_horizontal_Blumenau.png'
     date_start: 2017-01-01
     date_end: 
     summary: |2-
@@ -127,37 +129,37 @@ work:
      
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-# skills:
-#   - name: Technical Skills
-#     items:
-#       - name: Python
-#         description: ''
-#         percent: 80
-#         icon: code-bracket
-#       - name: Data Science
-#         description: ''
-#         percent: 100
-#         icon: chart-bar
-#       - name: SQL
-#         description: ''
-#         percent: 40
-#         icon: circle-stack
-#   - name: Hobbies
-#     color: '#eeac02'
-#     color_border: '#f0bf23'
-#     items:
-#       - name: Hiking
-#         description: ''
-#         percent: 60
-#         icon: person-simple-walk
-#       - name: Cats
-#         description: ''
-#         percent: 100
-#         icon: cat
-#       - name: Photography
-#         description: ''
-#         percent: 80
-#         icon: camera
+skills:
+  - name: Technical Skills
+    items:
+      - name: Python
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Data Science
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: SQL
+        description: ''
+        percent: 40
+        icon: circle-stack
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
 
 languages:
   - name: Portuguese
@@ -224,12 +226,6 @@ awards:
     icon: udemy
     summary: |
       I studied the bases of project planning and management
-  # - title: Curso de 
-  #   url: https://www.coursera.org/learn/neural-networks-deep-learning
-  #   date: '2023-11-25'
-  #   awarder: Udemy
-  #   icon: udemy
-  #   summary: |
   #     I studied the foundational concept of neural network
 # Greetings! My name is Ríad Mattos Nassiffe, I am curre professor at IFC-campus Blumenau. I am computer science professor at technical computing and bachelor at Computer Science courses. I teach disciplines about programming, operating system, data structure, embedded system and architecture and organization.
 

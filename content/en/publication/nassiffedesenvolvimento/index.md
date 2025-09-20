@@ -11,13 +11,17 @@ lastmod: 2021-03-19T09:39:08-03:00
 featured: false
 draft: false
 
-url_pdf: ''
+links:
+  - type: pdf
+    url:  ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/riadnassiffe/APOS'
+links:
+  - type: source
+    url: 'https://github.com/riadnassiffe/APOS'
 url_video: ''
 
 # Featured image

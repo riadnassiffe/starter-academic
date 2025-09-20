@@ -31,7 +31,9 @@ publishDate: '2021-03-19T12:39:10.583508Z'
 publication_types:
 - 'Journal'
 abstract: 'It was a project developed by students of the technical course of IFC, the main focus was apply some existing model to build a tool to solve the problema of scheduling classes time.'
-url_pdf: 'https://publicacoes.ifc.edu.br/index.php/MEPEC/article/view/423/393'
+links:
+  - type: pdf
+    url:  'https://publicacoes.ifc.edu.br/index.php/MEPEC/article/view/423/393'
 url_site: 'https://publicacoes.ifc.edu.br/index.php/MEPEC/article/view/423'
 publication: '*Anais da Mostra de Ensino, Pesquisa, Extensão e Cidadania (MEPEC)*'
 ---

@@ -15,16 +15,20 @@ date: '2013-01-01'
 lastmod: 2021-03-19T09:39:08-03:00
 featured: false
 draft: false
-doi: "http://dx.doi.org/10.1145/2518148.2518163"
+hugoblox:
+  ids:
+    doi: "http://dx.doi.org/10.1145/2518148.2518163"
 
 
-url_pdf: http://dx.doi.org/10.1145/2518148.2518163
+links:
+  - type: pdf
+    url:  http://dx.doi.org/10.1145/2518148.2518163
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+
 url_video: ''
 
 # Featured image

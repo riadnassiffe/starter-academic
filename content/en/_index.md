@@ -18,7 +18,7 @@ sections:
       #   text: Download CV
       #   url: uploads/resume.pdf
     design:
-      css_class: light
+      # css_class: light
       background:
         # color: black
         image:
@@ -29,52 +29,13 @@ sections:
           size: cover
           position: left
           parallax: true
-  # - block:  features
-    # id: skills
-    # content:
-    #   title: 'Main Skills'
-    #   subtitle: ''
-    #   items:
-    #     - icon: devicon/salesforce
-    #       name: 
-    #       description: Current working!
-    #     - icon: devicon/git
-    #       name: 
-    #       description: Current working!
-    #     - icon: devicon/linux
-    #       name: 
-    #       description: Linux user since 2006.
-    #     - icon: arrow-trending-up
-    #       name: Optimization
-    #       description: Discrete and continuous (convex and piecewise linear) optimization problems.
-    #     - icon: devicon/python
-    #       name: 
-    #       description: Pygames, Flask, Django, scipy, cvxpy and ...
-    #     - icon: devicon/c
-    #       name: 
-    #       description: Optimization algorithms
-    #     - icon: devicon/java
-    #       name:  
-    #       description: Web develper in java on 2008.
-    #     - icon: camera
-    #       name:  
-    #       description: My travels :)
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      # username: riad
-      # # Choose a layout view
-      # text: ""
-    # design:
-    #   css_class: 'featurette-icon'
   - block: collection
     id: post
     content:
       title: 'Posts'
       subtitle: ''
-      # Page type to display. E.g. post, talk, publication...
       page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
       count: 5
-      # Filter on criteria
       filters:
         author: ""
         category: ""
@@ -83,17 +44,12 @@ sections:
         exclude_future: false
         exclude_past: false
         publication_type: ""
-      # Choose how many pages you would like to offset by
       offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
-      # Choose a layout view
       view: article-grid
       columns: '3'
       css_class: light
-      background:
-        color: WhiteSmoke
   - block: collection
     id: projects
     content:
@@ -108,7 +64,7 @@ sections:
   - block: collection
     id: teachings
     content:
-      title: Teachings
+      title: 📚 Teachings
       text: This section will have text in Portuguese, due to the courses are happening in Portuguese.
       filters:
         folders:
@@ -117,6 +73,8 @@ sections:
       view: article-grid
       fill_image: true
       columns: '2'
+      # background:
+      #   color: WhiteSmoke
   - block: collection
     id: publications
     content:
@@ -127,7 +85,11 @@ sections:
           - publication
     design:
       view: citation
-      css_class: light
-      background:
-        color: WhiteSmoke
+      fill_image: true
+      columns: '3'
+    # design:
+    #   # view: citation
+    #   css_class: light
+    #   background:
+    #     color: WhiteSmoke
 ---

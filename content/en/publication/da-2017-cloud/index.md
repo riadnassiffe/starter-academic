@@ -15,7 +15,9 @@ date: '2017-01-01'
 lastmod: 2021-03-19T09:39:10-03:00
 featured: false
 draft: false
-doi: ""
+hugoblox:
+  ids:
+    doi: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -36,5 +38,7 @@ publication_types:
 - 'Journal'
 abstract: 'It was a project developed by students of the technical course of IFC, the main focus was to help readers to catalog their achievements and share with friends.'
 publication: '*Anais da Mostra de Ensino, Pesquisa, Extensão e Cidadania (MEPEC)*'
-url_pdf: 'https://publicacoes.ifc.edu.br/index.php/MEPEC/article/view/256/231'
+links:
+  - type: pdf
+    url:  'https://publicacoes.ifc.edu.br/index.php/MEPEC/article/view/256/231'
 ---

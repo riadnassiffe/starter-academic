@@ -1,10 +1,18 @@
 {
-  "comments": {
-    "dependencies": {},
-    "devDependencies": {}
+  "name": "hugo-blox-academic-cv-starter",
+  "version": "1.0.0",
+  "private": true,
+  "packageManager": "pnpm@10.14.0",
+  "description": "Academic CV starter template for Hugo Blox with Tailwind CSS v4",
+  "scripts": {
+    "dev": "hugo server --disableFastRender",
+    "build": "hugo --minify"
   },
-  "dependencies": {},
-  "devDependencies": {},
-  "name": "starter-academic",
-  "version": "0.1.0"
+  "dependencies": {
+    "@tailwindcss/typography": "^0.5.10"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.13",
+    "tailwindcss": "^4.1.13"
+  }
 }

@@ -1,0 +1,50 @@
+---
+# Documentation: https://docs.hugoblox.com/managing-content/
+
+title: "Problem of Choosing Collaborators in a Network Sensors"
+summary: ""
+authors: ['riad']
+tags: ['WSNs']
+categories: ['WSNs']
+date: '2024-07-07T12:37:37-03:00'
+
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+links:
+  - name: Postdoc report(PT-Br)
+    url: 'project/NodeSelection/postDocRepPt.pdf'
+    icon_pack: fab
+    icon: page
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Custom links (optional).
+#   Uncomment and edit lines below to show custom links.
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
+
+url_code: ""
+
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: ""
+# type: page
+---
+
+In order to improve the communication of Wireless Sensor Networks (WSNs), in an environment where the transmission quality is constantly being modified, we intend to develop mathematical models for the selection of cooperating nodes, where exact and approximate algorithms will be tested. Such models will be built in an approximate way, which allows the use of efficient algorithms to solve this problem. This was my postdoc project.
